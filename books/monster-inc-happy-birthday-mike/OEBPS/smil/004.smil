@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id24g">
+			<!--  -->
+			<text src="../004.xhtml#empty"/>
+			<audio clipBegin="28935ms" clipEnd="29995ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id24">
+			<!-- Mike -->
+			<text src="../004.xhtml#w24"/>
+			<audio clipBegin="29995ms" clipEnd="30435ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id25">
+			<!-- and -->
+			<text src="../004.xhtml#w25"/>
+			<audio clipBegin="30435ms" clipEnd="30595ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id26">
+			<!-- Sulley -->
+			<text src="../004.xhtml#w26"/>
+			<audio clipBegin="30595ms" clipEnd="31195ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id27">
+			<!-- are -->
+			<text src="../004.xhtml#w27"/>
+			<audio clipBegin="31195ms" clipEnd="31495ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id28">
+			<!-- eating -->
+			<text src="../004.xhtml#w28"/>
+			<audio clipBegin="31495ms" clipEnd="31865ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id29">
+			<!-- pizza -->
+			<text src="../004.xhtml#w29"/>
+			<audio clipBegin="31865ms" clipEnd="32545ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id29g">
+			<!--  -->
+			<text src="../004.xhtml#empty1"/>
+			<audio clipBegin="32545ms" clipEnd="33150ms" src="../audio/9781484756409.m4a"/>
+		</par>
+	</body>
+</smil>

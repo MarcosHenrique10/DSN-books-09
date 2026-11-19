@@ -1,0 +1,413 @@
+@font-face
+{
+  font-family: "AvenirNextLTPro-Light";
+  src: url(../fonts/AvenirNextLTPro-Light.otf);
+}
+@font-face
+{
+  font-family: "SimonciniGaramondStd-Bold";
+  src: url(../fonts/SimonciniGaramondStd-Bold.otf);
+}
+@font-face
+{
+  font-family: "SimonciniGaramondStd-Italic";
+  src: url(../fonts/SimonciniGaramondStd-Italic.otf);
+}
+@font-face
+{
+  font-family: "SimonciniGaramondStd";
+  src: url(../fonts/SimonciniGaramondStd.otf);
+}
+img{z-index:-1;}
+body {
+	width: 1000px;
+	height: 1000px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 1000px;
+	height: 1000px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+p.crt{
+	font-size: 12px;
+	line-height: 14px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 16px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+}
+span.AvenirNextLTPro
+{
+  font-family: "AvenirNextLTPro-Light";
+}
+p.title{
+	font-size: 21px;
+	line-height: 24px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	word-spacing:2px;
+  font-family: "SimonciniGaramondStd-Bold";
+}
+span.size01
+{
+	font-size: 23px;
+}
+p.dedi{
+	font-size: 20px;
+	line-height: 22px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "SimonciniGaramondStd";
+}
+span.italic
+{
+  font-family: "SimonciniGaramondStd-Italic";
+}
+p.logo{
+	font-size: 17px;
+	line-height: 10px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+}
+p.nonindent{
+	font-size: 30px;
+	line-height: 39px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 1px;
+  font-family: "SimonciniGaramondStd";
+}
+p.indent{
+	font-size: 30px;
+	line-height: 39px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+}
+p.indent1{
+	font-size: 30px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+}
+p.indent2{
+	font-size: 30px;
+	line-height: 45px;
+	text-align: left;
+	text-indent: 42px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+  color:#6D2980;
+}
+span.big
+{
+  font-family: "SimonciniGaramondStd-Bold";
+  font-size: 39px;
+  vertical-align:10px;
+  margin-right:15px;
+  margin-left:5px;
+}
+span.strong
+{
+  font-family: "SimonciniGaramondStd-Bold";
+  font-size: 37px;
+  word-spacing: 0px;
+}
+span.strong1
+{
+  font-family: "SimonciniGaramondStd-Bold";
+  font-size: 47px;
+}
+span.ws01
+{
+  word-spacing:4px;
+}
+div.page2_item1{
+	position: absolute;
+	top: 791px;
+	left: 114px;
+	right: 0px;
+width: 775px;height: 138px;}
+div.page3_item1{
+	position: absolute;
+	top: 512px;
+	left: 158px;
+	right: 0px;
+width: 240px;height: 105px;}
+div.page3_item2{
+	position: absolute;
+	top: 774px;
+	left: 218px;
+	right: 0px;
+width: 573px;height: 63px;}
+div.page3_item3{
+	position: absolute;
+	top: 886px;
+	left: 420px;
+	right: 0px;
+width: 208px;height: 28px;}
+div.page4_item1{
+	position: absolute;
+	top: 68px;
+	left: 76px;
+	right: 0px;
+width: 760px;height: 189px;}
+div.page5_item1{
+	position: absolute;
+	top: 754px;
+	left: 163px;
+	right: 0px;
+width: 784px;height: 186px;}
+div.page6_item1{
+	position: absolute;
+	top: 76px;
+	left: 188px;
+	right: 0px;
+width: 823px;height: 371px;}
+div.page7_item1{
+	position: absolute;
+	top: 754px;
+	left: 110px;
+	right: 0px;
+width: 835px;height: 189px;}
+div.page8_item1{
+	position: absolute;
+	top: 794px;
+	left: 226px;
+	right: 0px;
+width: 599px;height: 141px;}
+div.page9_item1{
+	position: absolute;
+	top: 73px;
+	left: 171px;
+	right: 0px;
+width: 710px;height: 246px;}
+div.page11_item1{
+	position: absolute;
+	top: 650px;
+	left: 707px;
+	right: 0px;
+width: 274px;height: 113px;}
+div.page11_item2{
+	position: absolute;
+	top: 84px;
+	left: 148px;
+	right: 0px;
+width: 701px;height: 251px;}
+div.page12_item1{
+	position: absolute;
+	top: 79px;
+	left: 218px;
+	right: 0px;
+width: 623px;height: 112px;}
+div.page13_item1{
+	position: absolute;
+	top: 74px;
+	left: 177px;
+	right: 0px;
+width: 374px;height: 146px;}
+div.page13_item2{
+	position: absolute;
+	top: 751px;
+	left: 524px;
+	right: 0px;
+width: 349px;height: 189px;}
+div.page14_item1{
+	position: absolute;
+	top: 120px;
+	left: 164px;
+	right: 0px;
+width: 603px;height: 269px;}
+div.page15_item1{
+	position: absolute;
+	top: 754px;
+	left: 231px;
+	right: 0px;
+width: 609px;height: 182px;}
+div.page16_item1{
+	position: absolute;
+	top: 675px;
+	left: 66px;
+	right: 0px;
+width: 671px;height: 297px;}
+div.page17_item1{
+	position: absolute;
+	top: 80px;
+	left: 176px;
+	right: 0px;
+width: 635px;height: 360px;}
+div.page18_item1{
+	position: absolute;
+	top: 67px;
+	left: 121px;
+	right: 0px;
+width: 731px;height: 244px;}
+div.page19_item1{
+	position: absolute;
+	top: 750px;
+	left: 149px;
+	right: 0px;
+width: 722px;height: 219px;}
+div.page20_item1{
+	position: absolute;
+	top: 746px;
+	left: 156px;
+	right: 0px;
+width: 763px;height: 204px;}
+div.page21_item1{
+	position: absolute;
+	top: 69px;
+	left: 92px;
+	right: 0px;
+width: 745px;height: 272px;}
+div.page22_item1{
+	position: absolute;
+	top: 80px;
+	left: 130px;
+	right: 0px;
+width: 683px;height: 216px;}
+div.page23_item1{
+	position: absolute;
+	top: 710px;
+	left: 133px;
+	right: 0px;
+width: 868px;height: 267px;}
+div.page24_item1{
+	position: absolute;
+	top: 84px;
+	left: 120px;
+	right: 0px;
+width: 683px;height: 250px;}
+div.page25_item1{
+	position: absolute;
+	top: 760px;
+	left: 165px;
+	right: 0px;
+width: 748px;height: 202px;}
+div.page26_item1{
+	position: absolute;
+	top: 82px;
+	left: 178px;
+	right: 0px;
+width: 747px;height: 276px;}
+.media-overlay-active { 
+color:#f00 !important; 
+padding-top:10px;
+padding-bottom:10px;
+}
+
+p.indent1a{
+	font-size: 30px;
+	line-height: 39px;
+	text-align: left;
+	text-indent: 38px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+}
+span.strong2
+{
+  font-family: "SimonciniGaramondStd-Bold";
+  font-size: 37px;
+  word-spacing: 1px;
+  line-height: 46px;
+}
+p.indent2a{
+	font-size: 29px;
+	line-height: 45px;
+	text-align: left;
+	text-indent: 34px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "SimonciniGaramondStd";
+}
+span.strong1a
+{
+  font-family: "SimonciniGaramondStd-Bold";
+  font-size: 38px;
+  word-spacing: 0px;
+}
+.white{
+color:#FFFFFF;
+}
+.blue{
+color:#0D4A8B;
+}
+.red{
+color:#EC008D;
+}
+.lightblue{
+color:#213675;
+}
+
+
+.media-overlay-active { color:#f00 !important; }
+.media-overlay-active span.size01,
+.media-overlay-active span.strong,
+.media-overlay-active span.strong1,
+.media-overlay-active span.ws01,
+.media-overlay-active span.strong2,
+.media-overlay-active span.big,
+.media-overlay-active span.strong1a
+{ color:#f00 !important; }
+
+
+div.page3_item1 .media-overlay-active { 
+color:#800080 !important; 
+padding-top:10px;
+padding-bottom:10px;
+}

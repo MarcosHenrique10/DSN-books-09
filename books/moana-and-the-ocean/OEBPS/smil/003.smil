@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="11145ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Moana -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="11145ms" clipEnd="11853ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- and -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="11853ms" clipEnd="12063ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- the -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="12063ms" clipEnd="12273ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Ocean -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="12273ms" clipEnd="13493ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- By -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="13493ms" clipEnd="13693ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Heather -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="13693ms" clipEnd="14043ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Knowles -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="14043ms" clipEnd="15503ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="15503ms" clipEnd="16323ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- by -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="16323ms" clipEnd="16553ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Annette -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="16553ms" clipEnd="16983ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Marnat -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="16983ms" clipEnd="18208ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id11g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="18208ms" clipEnd="19394ms" src="../audio/9781484776322.m4a"/>
+		</par>
+	</body>
+</smil>

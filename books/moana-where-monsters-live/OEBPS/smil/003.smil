@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="13665ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Where -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="13665ms" clipEnd="13905ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Monsters -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="13905ms" clipEnd="14655ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Live -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="14655ms" clipEnd="15875ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- By -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="15875ms" clipEnd="16145ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- STEVE -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="16145ms" clipEnd="16835ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- BEHLING -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="16835ms" clipEnd="17805ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="17805ms" clipEnd="18505ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- by -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="18505ms" clipEnd="18785ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- BRITTNEY -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="18785ms" clipEnd="19285ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- LEE -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="19285ms" clipEnd="19595ms" src="../audio/9781368005852.m4a"/>
+		</par>
+		<par id="id10g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="19595ms" clipEnd="20405ms" src="../audio/9781368005852.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,333 @@
+@font-face
+{
+  font-family: "AvenirNextLTPro-Light";
+  src: url(../fonts/AvenirNextLTPro-Light.otf);
+}
+
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+
+@font-face
+{
+  font-family: "Flyer_InsideOut";
+  src: url(../fonts/Flyer_InsideOut.otf);
+}
+@font-face
+{
+  font-family: "gc_housepaint";
+  src: url(../fonts/gc_housepaint.otf);
+}
+img{z-index:-1;}
+body {
+	width: 904px;
+	height: 1105px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 904px;
+	height: 1105px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+p.dedi{
+	font-size: 26px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 6px;
+  font-family: "gc_housepaint";
+}
+p.dedi1{
+	font-size: 21px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 43px;
+  font-family: "Flyer_InsideOut";
+}
+p.dedi2{
+	font-size: 21px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "Flyer_InsideOut";
+}
+p.crt{
+	font-size: 12px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	word-spacing:2px;
+	font-family: "Flyer_InsideOut";
+}
+p.title{
+	font-size: 22px;
+	line-height: 44px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "Flyer_InsideOut";
+}
+span.strong
+{
+	font-size: 30px;
+}
+p.inspired{
+	font-size: 17px;
+	line-height: 10px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "Flyer_InsideOut";
+}
+p.logo{
+	font-size: 12px;
+	line-height: 10px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing:1px;
+  font-family: "Flyer_InsideOut";
+}
+p.center{
+	font-size: 45px;
+	line-height: 54px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+  font-family: "Flyer_InsideOut";
+}
+p.center1{
+	font-size: 179px;
+	line-height: 54px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 55px;
+	margin-bottom: 0px;
+  font-family: "gc_housepaint";
+}
+span.space1{
+	font-size: 45px;
+  font-family: "Flyer_InsideOut";
+  margin-left:3px;
+}
+
+
+
+
+div.page2_item1{
+	position: absolute;
+	top: 345px;
+	left: 114px;
+	right: 0px;
+width: 662px;height: 73px;}
+div.page2_item2{
+	position: absolute;
+	top: 482px;
+	left: 200px;
+	right: 0px;
+width: 490px;height: 136px;}
+div.page2_item3{
+	position: absolute;
+	top: 903px;
+	left: 202px;
+	right: 0px;
+width: 483px;height: 169px;}
+div.page3_item1{
+	position: absolute;
+	top: 417px;
+	left: 453px;
+	right: 0px;
+width: 322px;height: 95px;}
+div.page3_item2{
+	position: absolute;
+	top: 865px;
+	left: 479px;
+	right: 0px;
+width: 147px;height: 29px;}
+div.page3_item3{
+	position: absolute;
+	top: 1059px;
+	left: 446px;
+	right: 0px;
+width: 147px;height: 29px;}
+div.page5_item1{
+	position: absolute;
+	top: 182px;
+	left: 230px;
+	right: 0px;
+width: 441px;height: 79px;}
+div.page6_item1{
+	position: absolute;
+	top: 160px;
+	left: 220px;
+	right: 0px;
+width: 467px;height: 131px;}
+div.page11_item1{
+	position: absolute;
+	top: 105px;
+	left: 246px;
+	right: 0px;
+width: 415px;height: 80px;}
+div.page12_item1{
+	position: absolute;
+	top: 670px;
+	left: 526px;
+	right: 0px;
+width: 253px;height: 132px;}
+div.page15_item1{
+	position: absolute;
+	top: 915px;
+	left: 223px;
+	right: 0px;
+width: 458px;height: 79px;}
+div.page19_item1{
+	position: absolute;
+	top: 160px;
+	left: 229px;
+	right: 0px;
+width: 446px;height: 93px;}
+div.page20_item1{
+	position: absolute;
+	top: 452px;
+	left: 198px;
+	right: 0px;
+width: 337px;height: 78px;}
+div.page23_item1{
+	position: absolute;
+	top: 685px;
+	left: 262px;
+	right: 0px;
+width: 422px;height: 121px;}
+div.page25_item1{
+	position: absolute;
+	top: 907px;
+	left: 207px;
+	right: 0px;
+width: 491px;height: 68px;}
+div.page29_item1{
+	position: absolute;
+	top: 184px;
+	left: 211px;
+	right: 0px;
+width: 480px;height: 84px;}
+div.page30_item1{
+	position: absolute;
+	top: 465px;
+	left: 218px;
+	right: 0px;
+width: 467px;height: 102px;}
+div.page32_item1{
+	position: absolute;
+	top: 465px;
+	left: 267px;
+	right: 0px;
+width: 375px;height: 81px;}
+div.page35_item1{
+	position: absolute;
+	top: 250px;
+	left: 362px;
+	right: 0px;
+width: 182px;height: 39px;}
+div.page35_item2{
+	position: absolute;
+	top: 299px;
+	left: 153px;
+	right: 0px;
+width: 631px;height: 181px;}
+div.page36_item1{
+	position: absolute;
+	top: 1072px;
+	left: 406px;
+	right: 0px;
+width: 207px;height: 29px;}
+
+span.ws01
+{
+word-spacing:-2px;
+}
+span.AvenirNextLTPro
+{
+  font-family: "AvenirNextLTPro-Light";
+}
+.red
+{
+color:#5F0331;
+}
+.green
+{
+color:#004D45;
+}
+.white
+{
+color:#FFFFFF;
+}
+span.blue
+{
+color:#33BADC;
+}
+
+
+
+
+.media-overlay-active { 
+color:#f00 !important; 
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.media-overlay-active { color:#f00 !important; }
+.media-overlay-active span.blue,
+.media-overlay-active span.space1
+{ color:#f00 !important; }
+
+
+
+span.arial
+{
+font-family: "Arial";
+}

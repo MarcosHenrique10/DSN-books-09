@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id498g">
+      <!--  -->
+      <text src="../026.xhtml#empty"/>
+      <audio clipBegin="294662ms" clipEnd="295401ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id498">
+      <!-- The -->
+      <text src="../026.xhtml#w498"/>
+      <audio clipBegin="295401ms" clipEnd="295551ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id499">
+      <!-- teacher -->
+      <text src="../026.xhtml#w499"/>
+      <audio clipBegin="295551ms" clipEnd="296131ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id500">
+      <!-- gasped -->
+      <text src="../026.xhtml#w500"/>
+      <audio clipBegin="296131ms" clipEnd="297451ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id501">
+      <!-- That -->
+      <text src="../026.xhtml#w501"/>
+      <audio clipBegin="297451ms" clipEnd="298681ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id502">
+      <!-- looks -->
+      <text src="../026.xhtml#w502"/>
+      <audio clipBegin="298681ms" clipEnd="298991ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id503">
+      <!-- like -->
+      <text src="../026.xhtml#w503"/>
+      <audio clipBegin="298991ms" clipEnd="299291ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id504">
+      <!-- Bigfoot -->
+      <text src="../026.xhtml#w504"/>
+      <audio clipBegin="299291ms" clipEnd="300971ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id505">
+      <!-- Boo -->
+      <text src="../026.xhtml#w505"/>
+      <audio clipBegin="300971ms" clipEnd="301371ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id506">
+      <!-- giggled -->
+      <text src="../026.xhtml#w506"/>
+      <audio clipBegin="301371ms" clipEnd="302581ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id507">
+      <!-- Not -->
+      <text src="../026.xhtml#w507"/>
+      <audio clipBegin="302581ms" clipEnd="302801ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id508">
+      <!-- Bigfoot -->
+      <text src="../026.xhtml#w508"/>
+      <audio clipBegin="302801ms" clipEnd="304341ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id509">
+      <!-- That's -->
+      <text src="../026.xhtml#w509"/>
+      <audio clipBegin="304341ms" clipEnd="304841ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id510">
+      <!-- Kitty -->
+      <text src="../026.xhtml#w510"/>
+      <audio clipBegin="304841ms" clipEnd="306781ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id510g">
+      <!--  -->
+      <text src="../026.xhtml#empty1"/>
+      <audio clipBegin="306781ms" clipEnd="320210ms" src="../audio/9781484752913.m4a"/>
+    </par>
+  </body>
+</smil>

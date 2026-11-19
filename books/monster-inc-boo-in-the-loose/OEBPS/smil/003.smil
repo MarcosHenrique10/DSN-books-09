@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!-- Written -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="13505ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13505ms" clipEnd="13825ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13825ms" clipEnd="14035ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Gail -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14035ms" clipEnd="14415ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Herman -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14415ms" clipEnd="15205ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15205ms" clipEnd="15865ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15865ms" clipEnd="16045ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Scott -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16045ms" clipEnd="16445ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Tilley -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="16445ms" clipEnd="17085ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Floyd -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="17085ms" clipEnd="17445ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Norman -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="17445ms" clipEnd="18165ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- and -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="18165ms" clipEnd="18335ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Brooks -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="18335ms" clipEnd="18705ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Campbell -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="18705ms" clipEnd="19095ms" src="../audio/9781423189350.m4a"/>
+    </par>
+    <par id="id13g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="19095ms" clipEnd="19963ms" src="../audio/9781423189350.m4a"/>
+    </par>
+  </body>
+</smil>

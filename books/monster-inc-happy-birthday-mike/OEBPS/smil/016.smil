@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id134g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="100480ms" clipEnd="101505ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- George -->
+			<text src="../016.xhtml#w134"/>
+			<audio clipBegin="101505ms" clipEnd="101975ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- finds -->
+			<text src="../016.xhtml#w135"/>
+			<audio clipBegin="101975ms" clipEnd="102355ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- the -->
+			<text src="../016.xhtml#w136"/>
+			<audio clipBegin="102355ms" clipEnd="102725ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id137">
+			<!-- perfect -->
+			<text src="../016.xhtml#w137"/>
+			<audio clipBegin="102725ms" clipEnd="103385ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id138">
+			<!-- piñata -->
+			<text src="../016.xhtml#w138"/>
+			<audio clipBegin="103385ms" clipEnd="104195ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id138g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="104195ms" clipEnd="104458ms" src="../audio/9781484756409.m4a"/>
+		</par>
+	</body>
+</smil>

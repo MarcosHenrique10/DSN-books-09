@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="12195ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="12195ms" clipEnd="12765ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="12765ms" clipEnd="12995ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Tennant -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="12995ms" clipEnd="13385ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Redbank -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="13385ms" clipEnd="14515ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="14515ms" clipEnd="15075ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15075ms" clipEnd="15255ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Matt -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="15255ms" clipEnd="15565ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- CruiCkshank -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="15565ms" clipEnd="16685ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Designed -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="16685ms" clipEnd="17315ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- by -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="17315ms" clipEnd="17485ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Stuart -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="17485ms" clipEnd="17955ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Smith -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="17955ms" clipEnd="18415ms" src="../audio/9781423195870.m4a"/>
+    </par>
+    <par id="id12g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="18415ms" clipEnd="19074ms" src="../audio/9781423195870.m4a"/>
+    </par>
+  </body>
+</smil>

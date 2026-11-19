@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id73g">
+			<!--  -->
+			<text src="../035.xhtml#empty"/>
+			<audio clipBegin="72654ms" clipEnd="72933ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id73">
+			<!-- She -->
+			<text src="../035.xhtml#w73"/>
+			<audio clipBegin="72933ms" clipEnd="73913ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id74">
+			<!-- is -->
+			<text src="../035.xhtml#w74"/>
+			<audio clipBegin="73913ms" clipEnd="74133ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id75">
+			<!-- my -->
+			<text src="../035.xhtml#w75"/>
+			<audio clipBegin="74133ms" clipEnd="75383ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id76">
+			<!-- Moana -->
+			<text src="../035.xhtml#w76"/>
+			<audio clipBegin="75383ms" clipEnd="77003ms" src="../audio/9781484776322.m4a"/>
+		</par>
+		<par id="id76g">
+			<!--  -->
+			<text src="../035.xhtml#empty1"/>
+			<audio clipBegin="77003ms" clipEnd="88901ms" src="../audio/9781484776322.m4a"/>
+		</par>
+	</body>
+</smil>

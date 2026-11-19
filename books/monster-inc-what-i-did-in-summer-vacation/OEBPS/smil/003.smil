@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="10681ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Monsters -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="10681ms" clipEnd="11661ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Inc -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="11661ms" clipEnd="12881ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- What -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="12881ms" clipEnd="13101ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- I -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="13101ms" clipEnd="13391ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Did -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="13391ms" clipEnd="13801ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- on -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="13801ms" clipEnd="13931ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- my -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13931ms" clipEnd="14251ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Summer -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="14251ms" clipEnd="14731ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Vacation -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="14731ms" clipEnd="16371ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- By -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="16371ms" clipEnd="16881ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Annie -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="16881ms" clipEnd="17381ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Auerbach -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="17381ms" clipEnd="18801ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="18801ms" clipEnd="19511ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- by -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="19511ms" clipEnd="19741ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Fabio -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="19741ms" clipEnd="20261ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Laguna -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="20261ms" clipEnd="21621ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Frank -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="21621ms" clipEnd="21971ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Anduiza -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="21971ms" clipEnd="23321ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- John -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="23321ms" clipEnd="23691ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Wardlaw -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="23691ms" clipEnd="24931ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- and -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="24931ms" clipEnd="25041ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- Maurizio -->
+      <text src="../003.xhtml#w22"/>
+      <audio clipBegin="25041ms" clipEnd="25831ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- de -->
+      <text src="../003.xhtml#w23"/>
+      <audio clipBegin="25831ms" clipEnd="26021ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- Bellis -->
+      <text src="../003.xhtml#w24"/>
+      <audio clipBegin="26021ms" clipEnd="26691ms" src="../audio/9781484752913.m4a"/>
+    </par>
+    <par id="id24g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="26691ms" clipEnd="27385ms" src="../audio/9781484752913.m4a"/>
+    </par>
+  </body>
+</smil>

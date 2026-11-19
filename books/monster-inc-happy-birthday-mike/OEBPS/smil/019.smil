@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id139g">
+			<!--  -->
+			<text src="../019.xhtml#empty"/>
+			<audio clipBegin="106033ms" clipEnd="106295ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id139">
+			<!-- Sulley -->
+			<text src="../019.xhtml#w139"/>
+			<audio clipBegin="106295ms" clipEnd="107035ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id140">
+			<!-- shops -->
+			<text src="../019.xhtml#w140"/>
+			<audio clipBegin="107035ms" clipEnd="107565ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id141">
+			<!-- for -->
+			<text src="../019.xhtml#w141"/>
+			<audio clipBegin="107565ms" clipEnd="107735ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id142">
+			<!-- party -->
+			<text src="../019.xhtml#w142"/>
+			<audio clipBegin="107735ms" clipEnd="108215ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id143">
+			<!-- games -->
+			<text src="../019.xhtml#w143"/>
+			<audio clipBegin="108215ms" clipEnd="109055ms" src="../audio/9781484756409.m4a"/>
+		</par>
+		<par id="id143g">
+			<!--  -->
+			<text src="../019.xhtml#empty1"/>
+			<audio clipBegin="109055ms" clipEnd="110100ms" src="../audio/9781484756409.m4a"/>
+		</par>
+	</body>
+</smil>
