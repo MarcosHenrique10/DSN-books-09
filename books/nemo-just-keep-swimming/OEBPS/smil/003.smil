@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- by -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="12442ms" clipEnd="12935ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Melissa -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="12935ms" clipEnd="13485ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Lagonegro -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="13485ms" clipEnd="14815ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14815ms" clipEnd="15475ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15475ms" clipEnd="15795ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Atelier -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="15795ms" clipEnd="16725ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Philippe -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16725ms" clipEnd="17415ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Harchy -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="17415ms" clipEnd="18135ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="18135ms" clipEnd="19954ms" src="../audio/9781423192152.m4a"/>
+    </par>
+  </body>
+</smil>

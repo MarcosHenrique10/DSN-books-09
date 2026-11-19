@@ -1,0 +1,140 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"caslonAntique";
+	src: url(../fonts/CaslonAntique.otf);
+}
+@font-face {
+	font-family:"centuryOSMT";
+	src: url(../fonts/CenturyOSMT.otf);
+}
+@font-face {
+	font-family:"futuraLight";
+	src: url(../fonts/FuturaLight.otf);
+}
+@font-face {
+	font-family:"jasonBold";
+	src: url(../fonts/JansonBold.otf);
+}
+@font-face {
+	font-family:"jasonBoldItalic";
+	src: url(../fonts/JansonBoldItalic.otf);
+}
+
+.font-1 {
+	font-family:"futuraLight";
+	font-size:11px;
+	line-height:11px;
+	display: block;
+}
+.font-2 {
+	font-family:"caslonAntique";
+	font-size:23px;
+	line-height:30px;
+	color:#7C4F26;
+}
+.font-2.alt-color {
+	color:#DA2128;
+}
+.font-3 {
+	font-family:"centuryOSMT";
+	font-size:20px;
+	line-height:27px;
+}
+.font-4 {
+	font-family:"caslonAntique";
+	font-size:47px;
+	line-height:20px;
+	letter-spacing: 2px;
+}
+.font-5 {
+	font-family:"jasonBold";
+	font-size:19px;
+	line-height:28px;
+}
+.font-6 {
+	font-family:"caslonAntique";
+	font-size:40px;
+	line-height:51px;
+}
+.font-6-dropcap {
+	font-size: 40px;
+}
+.font-7 {
+	font-family:"caslonAntique";
+	font-size:47px;
+	line-height: 28px;
+}
+.font-7-inline {
+	font-family:"caslonAntique";
+	font-size:38px;
+	line-height: 25px;
+}
+.font-7-inline .font-7-dropcap {
+	font-size: 40px;
+}
+.font-7-dropcap {
+	font-size: 50px;
+}
+.font-8 {
+	font-family:"caslonAntique";
+	font-size:70px;
+}
+.count-space {
+	letter-spacing: 12px;
+}
+.font-9 {
+	font-family:"centuryOSMT";
+	font-size:20px;
+	line-height:28px;
+}
+/**/
+
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0 0 6px 0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; fill:#f00 !important; } /* For audio books */
+.alt-color .media-overlay-active { color:#f99 !important; fill:#f99 !important; } /* For audio books */
+.page, .page img { width:738px; height:738px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:738px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:738px; height:738px; position:relative; background-size:contain; left:25%; }
+/*span { color:#f6f !important; }*/
+
+
+/*TESTING EPUB/EPIB*/
+ 
+/* 
+.rbone,
+.page {
+	border: 1px solid red;
+}
+.pageKF8 {
+	background-color: red !important;
+}
+.gbone,
+.text-frame {
+	border: 1px solid #bada55;
+}
+.bbone {
+	border: 1px solid blue;
+}
+.pbone {
+	border: 1px solid fuchsia;
+}
+body {
+	fill: fuchsia;
+	color: fuchsia; blue;
+}
+ */
+
+

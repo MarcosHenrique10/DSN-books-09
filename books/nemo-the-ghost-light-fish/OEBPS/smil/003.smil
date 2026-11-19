@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="8635ms" src="../audio/9781484752036.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- The -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="8635ms" clipEnd="8725ms" src="../audio/9781484752036.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Ghost -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="8725ms" clipEnd="9085ms" src="../audio/9781484752036.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Light -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="9085ms" clipEnd="9345ms" src="../audio/9781484752036.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Fish -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="9345ms" clipEnd="9785ms" src="../audio/9781484752036.m4a"/>
+    </par>
+    <par id="id4g">
+      <!--  -->
+      <text src="../003.xhtml#empty1"/>
+      <audio clipBegin="9785ms" clipEnd="10855ms" src="../audio/9781484752036.m4a"/>
+    </par>
+  </body>
+</smil>

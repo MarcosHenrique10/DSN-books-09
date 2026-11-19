@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id72g">
+      <!--  -->
+      <text src="../016.xhtml#empty"/>
+      <audio clipBegin="75139ms" clipEnd="77045ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id72">
+      <!-- Just -->
+      <text src="../016.xhtml#w72"/>
+      <audio clipBegin="77045ms" clipEnd="77535ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id73">
+      <!-- keep -->
+      <text src="../016.xhtml#w73"/>
+      <audio clipBegin="77535ms" clipEnd="77715ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id74">
+      <!-- swimming -->
+      <text src="../016.xhtml#w74"/>
+      <audio clipBegin="77715ms" clipEnd="78715ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id75">
+      <!-- Dory -->
+      <text src="../016.xhtml#w75"/>
+      <audio clipBegin="78715ms" clipEnd="79055ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- cries -->
+      <text src="../016.xhtml#w76"/>
+      <audio clipBegin="79055ms" clipEnd="79655ms" src="../audio/9781423192152.m4a"/>
+    </par>
+  </body>
+</smil>

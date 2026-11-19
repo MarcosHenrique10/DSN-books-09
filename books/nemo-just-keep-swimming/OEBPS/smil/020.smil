@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id84g">
+      <!--  -->
+      <text src="../020.xhtml#empty"/>
+      <audio clipBegin="90983ms" clipEnd="92935ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- Nemo -->
+      <text src="../020.xhtml#w84"/>
+      <audio clipBegin="92935ms" clipEnd="93515ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- races -->
+      <text src="../020.xhtml#w85"/>
+      <audio clipBegin="93515ms" clipEnd="94215ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- and -->
+      <text src="../020.xhtml#w86"/>
+      <audio clipBegin="94215ms" clipEnd="94335ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- races -->
+      <text src="../020.xhtml#w87"/>
+      <audio clipBegin="94335ms" clipEnd="95195ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id87g">
+      <!--  -->
+      <text src="../020.xhtml#empty"/>
+      <audio clipBegin="95195ms" clipEnd="95655ms" src="../audio/9781423192152.m4a"/>
+    </par>
+  </body>
+</smil>

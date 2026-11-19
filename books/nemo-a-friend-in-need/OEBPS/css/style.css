@@ -1,0 +1,201 @@
+img{z-index:-1;}
+
+body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+
+@font-face{
+font-family:"arial";
+src: url(../fonts/arial.ttf);
+}
+
+@font-face{
+font-family:"AGaramondPro-Regular";
+src: url(../fonts/AGaramondPro-Regular.otf);
+}
+
+@font-face{
+font-family:"Aller_It";
+src: url(../fonts/Aller_It.ttf);
+}
+
+@font-face{
+font-family:"Aller_Rg";
+src: url(../fonts/Aller_Rg.ttf);
+}
+
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+p.nonindent{
+	font-size: 21px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Aller_Rg";
+}
+p.indent{
+	font-size: 21px;
+	line-height: 30px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Aller_Rg";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 685px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 690px;
+	left: 55px;
+	right: 0px;
+width: 688px;height: 244px;}
+div.page5_item1{
+	position: absolute;
+	top: 690px;
+	left: 55px;
+	right: 0px;
+width: 676px;height: 214px;}
+div.page6_item1{
+	position: absolute;
+	top: 655px;
+	left: 95px;
+	right: 0px;
+width: 643px;height: 243px;}
+div.page7_item1{
+	position: absolute;
+	top: 83px;
+	left: 407px;
+	right: 0px;
+width: 315px;height: 271px;}
+div.page8_item1{
+	position: absolute;
+	top: 50px;
+	left: 55px;
+	right: 0px;
+width: 517px;height: 308px;}
+div.page9_item1{
+	position: absolute;
+	top: 53px;
+	left: 55px;
+	right: 0px;
+width: 684px;height: 224px;}
+div.page10_item1{
+	position: absolute;
+	top: 90px;
+	left: 87px;
+	right: 0px;
+width: 580px;height: 187px;}
+div.page11_item1{
+	position: absolute;
+	top: 760px;
+	left: 117px;
+	right: 0px;
+width: 553px;height: 165px;}
+div.page12_item1{
+	position: absolute;
+	top: 810px;
+	left: 58px;
+	right: 0px;
+width: 592px;height: 124px;}
+div.page13_item1{
+	position: absolute;
+	top: 82px;
+	left: 143px;
+	right: 0px;
+width: 509px;height: 267px;}
+div.page14_item1{
+	position: absolute;
+	top: 80px;
+	left: 240px;
+	right: 0px;
+width: 518px;height: 453px;}
+div.page15_item1{
+	position: absolute;
+	top: 779px;
+	left: 142px;
+	right: 0px;
+width: 492px;height: 134px;}
+div.page16_item1{
+	position: absolute;
+	top: 780px;
+	left: 57px;
+	right: 0px;
+width: 656px;height: 147px;}
+div.page17_item1{
+	position: absolute;
+	top: 120px;
+	left: 145px;
+	right: 0px;
+width: 509px;height: 280px;}
+div.page18_item1{
+	position: absolute;
+	top: 50px;
+	left: 230px;
+	right: 0px;
+width: 493px;height: 206px;}
+
+
+span.arialp{
+font-family:"arial";
+}
+
+p.copy{
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 22px;
+	color:white;
+	font-family:"AGaramondPro-Regular";
+}
+
+span.italic{
+font-family:"Aller_It";
+}
+
+.media-overlay-active { color:#f00 !important; }

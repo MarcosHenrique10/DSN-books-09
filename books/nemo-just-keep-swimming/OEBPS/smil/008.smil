@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id34g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="37513ms" clipEnd="39405ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- Dory -->
+      <text src="../008.xhtml#w34"/>
+      <audio clipBegin="39405ms" clipEnd="39875ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- helps -->
+      <text src="../008.xhtml#w35"/>
+      <audio clipBegin="39875ms" clipEnd="40405ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- Nemo -->
+      <text src="../008.xhtml#w36"/>
+      <audio clipBegin="40405ms" clipEnd="40965ms" src="../audio/9781423192152.m4a"/>
+    </par>
+    <par id="id36g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="40965ms" clipEnd="41745ms" src="../audio/9781423192152.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,212 @@
+img{z-index:-1;}
+
+body {
+	width: 765px;
+	height: 979px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 765px;
+	height: 979px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 686px;
+	left: 0px;
+	right: 0px;
+}
+div.page4_item1{
+	position: absolute;
+	top: 51px;
+	left: 69px;
+	right: 0px;
+width: 653px;height: 267px;}
+div.page5_item1{
+	position: absolute;
+	top: 51px;
+	left: 81px;
+	right: 0px;
+width: 622px;height: 115px;}
+div.page6_item1{
+	position: absolute;
+	top: 684px;
+	left: 75px;
+	right: 0px;
+width: 628px;height: 227px;}
+div.page7_item1{
+	position: absolute;
+	top: 51px;
+	left: 80px;
+	right: 0px;
+width: 633px;height: 223px;}
+div.page8_item1{
+	position: absolute;
+	top: 260px;
+	left: 81px;
+	right: 0px;
+width: 488px;height: 487px;}
+div.page10_item1{
+	position: absolute;
+	top: 90px;
+	left: 104px;
+	right: 0px;
+width: 561px;height: 222px;}
+div.page11_item1{
+	position: absolute;
+	top: 51px;
+	left: 81px;
+	right: 0px;
+width: 644px;height: 197px;}
+div.page12_item1{
+	position: absolute;
+	top: 51px;
+	left: 79px;
+	right: 0px;
+width: 509px;height: 351px;}
+div.page14_item1{
+	position: absolute;
+	top: 685px;
+	left: 74px;
+	right: 0px;
+width: 657px;height: 248px;}
+div.page15_item1{
+	position: absolute;
+	top: 52px;
+	left: 86px;
+	right: 0px;
+width: 610px;height: 332px;}
+div.page16_item1{
+	position: absolute;
+	top: 51px;
+	left: 81px;
+	right: 0px;
+width: 625px;height: 179px;}
+div.page18_item1{
+	position: absolute;
+	top: 50px;
+	left: 78px;
+	right: 0px;
+width: 635px;height: 301px;}
+div.page19_item1{
+	position: absolute;
+	top: 51px;
+	left: 75px;
+	right: 0px;
+width: 637px;height: 291px;}
+div.page20_item1{
+	position: absolute;
+	top: 713px;
+	left: 79px;
+	right: 0px;
+width: 647px;height: 230px;}
+div.page3_item1{
+ position: absolute;
+	top: 49px;
+	left: 87px;
+	right: 0px;width: 580px;height: 219px;}
+
+.white
+{
+color:#FFFFFF;
+}
+@font-face
+{
+  font-family: "AGaramondPro-Regular";
+  src: url(../fonts/AGaramondPro-Regular.ttf);
+}
+
+@font-face
+{
+  font-family: "Aller_It";
+  src: url(../fonts/Aller_It.ttf);
+}
+
+@font-face
+{
+  font-family: "Aller_Rg";
+  src: url(../fonts/Aller_Rg.ttf);
+}
+
+@font-face
+{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+
+
+p.copy{
+	font-family: "AGaramondPro-Regular";
+	font-size: 13px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 21px;
+}
+
+span.arialp
+{
+font-family: "Arial";
+}
+p.indent{
+	word-spacing:1px;
+	font-family: "Aller_Rg";
+	font-size: 22px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+span.italic
+{
+font-family: "Aller_It";
+}
+
+p.indent1{
+	word-spacing:1px;
+	font-family: "Aller_Rg";
+	font-size: 22px;
+	line-height: 27px;
+	text-align: left;
+	text-indent: 35px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.media-overlay-active { color:#f00 !important; }
+.yellow-highlight span.media-overlay-active { color: #ffd135  !important; }
