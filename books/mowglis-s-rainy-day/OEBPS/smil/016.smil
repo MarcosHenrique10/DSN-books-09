@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id120g">
+			<!--  -->
+			<text src="../016.xhtml#empty"/>
+			<audio clipBegin="82793ms" clipEnd="83643ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id120">
+			<!-- Bagheera -->
+			<text src="../016.xhtml#w120"/>
+			<audio clipBegin="83643ms" clipEnd="84223ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id121">
+			<!-- pointed -->
+			<text src="../016.xhtml#w121"/>
+			<audio clipBegin="84223ms" clipEnd="84693ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id122">
+			<!-- out -->
+			<text src="../016.xhtml#w122"/>
+			<audio clipBegin="84693ms" clipEnd="84923ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id123">
+			<!-- which -->
+			<text src="../016.xhtml#w123"/>
+			<audio clipBegin="84923ms" clipEnd="85263ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id124">
+			<!-- plants -->
+			<text src="../016.xhtml#w124"/>
+			<audio clipBegin="85263ms" clipEnd="85773ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id125">
+			<!-- were -->
+			<text src="../016.xhtml#w125"/>
+			<audio clipBegin="85773ms" clipEnd="85903ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id126">
+			<!-- poisonous -->
+			<text src="../016.xhtml#w126"/>
+			<audio clipBegin="85903ms" clipEnd="86703ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id126g">
+			<!--  -->
+			<text src="../016.xhtml#empty1"/>
+			<audio clipBegin="86703ms" clipEnd="86948ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

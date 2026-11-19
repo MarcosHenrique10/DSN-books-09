@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id21g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="28282ms" clipEnd="30245ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Monsters -->
+      <text src="../004.xhtml#w21"/>
+      <audio clipBegin="30245ms" clipEnd="30855ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- University -->
+      <text src="../004.xhtml#w22"/>
+      <audio clipBegin="30855ms" clipEnd="31795ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id23">
+      <!-- is -->
+      <text src="../004.xhtml#w23"/>
+      <audio clipBegin="31795ms" clipEnd="31945ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id24">
+      <!-- a -->
+      <text src="../004.xhtml#w24"/>
+      <audio clipBegin="31945ms" clipEnd="31995ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id25">
+      <!-- school -->
+      <text src="../004.xhtml#w25"/>
+      <audio clipBegin="31995ms" clipEnd="32495ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id26">
+      <!-- for -->
+      <text src="../004.xhtml#w26"/>
+      <audio clipBegin="32495ms" clipEnd="32645ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id27">
+      <!-- monsters -->
+      <text src="../004.xhtml#w27"/>
+      <audio clipBegin="32645ms" clipEnd="33905ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id28">
+      <!-- In -->
+      <text src="../004.xhtml#w28"/>
+      <audio clipBegin="33905ms" clipEnd="34005ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id29">
+      <!-- the -->
+      <text src="../004.xhtml#w29"/>
+      <audio clipBegin="34005ms" clipEnd="34075ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id30">
+      <!-- Scaring -->
+      <text src="../004.xhtml#w30"/>
+      <audio clipBegin="34075ms" clipEnd="34605ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id31">
+      <!-- Program -->
+      <text src="../004.xhtml#w31"/>
+      <audio clipBegin="34605ms" clipEnd="35245ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id32">
+      <!-- students -->
+      <text src="../004.xhtml#w32"/>
+      <audio clipBegin="35245ms" clipEnd="35835ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id33">
+      <!-- learn -->
+      <text src="../004.xhtml#w33"/>
+      <audio clipBegin="35835ms" clipEnd="36075ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id34">
+      <!-- to -->
+      <text src="../004.xhtml#w34"/>
+      <audio clipBegin="36075ms" clipEnd="36215ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id35">
+      <!-- scare -->
+      <text src="../004.xhtml#w35"/>
+      <audio clipBegin="36215ms" clipEnd="36645ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id36">
+      <!-- humans -->
+      <text src="../004.xhtml#w36"/>
+      <audio clipBegin="36645ms" clipEnd="37255ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id36g">
+      <!--  -->
+      <text src="../004.xhtml#empty"/>
+      <audio clipBegin="37255ms" clipEnd="37710ms" src="../audio/9781423192411.m4a"/>
+    </par>
+  </body>
+</smil>

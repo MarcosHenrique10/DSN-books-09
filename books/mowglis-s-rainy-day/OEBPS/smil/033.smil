@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id294g">
+			<!--  -->
+			<text src="../033.xhtml#empty"/>
+			<audio clipBegin="176018ms" clipEnd="176223ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id294">
+			<!-- They -->
+			<text src="../033.xhtml#w294"/>
+			<audio clipBegin="176223ms" clipEnd="176523ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id295">
+			<!-- asked -->
+			<text src="../033.xhtml#w295"/>
+			<audio clipBegin="176523ms" clipEnd="176853ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id296">
+			<!-- Bagheera -->
+			<text src="../033.xhtml#w296"/>
+			<audio clipBegin="176853ms" clipEnd="177303ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id297">
+			<!-- to -->
+			<text src="../033.xhtml#w297"/>
+			<audio clipBegin="177303ms" clipEnd="177473ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id298">
+			<!-- dance -->
+			<text src="../033.xhtml#w298"/>
+			<audio clipBegin="177473ms" clipEnd="177873ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id299">
+			<!-- with -->
+			<text src="../033.xhtml#w299"/>
+			<audio clipBegin="177873ms" clipEnd="178133ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id300">
+			<!-- them -->
+			<text src="../033.xhtml#w300"/>
+			<audio clipBegin="178133ms" clipEnd="178423ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id300g">
+			<!--  -->
+			<text src="../033.xhtml#empty1"/>
+			<audio clipBegin="178423ms" clipEnd="179283ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

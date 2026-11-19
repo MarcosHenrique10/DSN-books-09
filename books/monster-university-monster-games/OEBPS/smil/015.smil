@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id76g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="57835ms" clipEnd="58245ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id76">
+      <!-- The -->
+      <text src="../015.xhtml#w76"/>
+      <audio clipBegin="58245ms" clipEnd="58335ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id77">
+      <!-- JOX -->
+      <text src="../015.xhtml#w77"/>
+      <audio clipBegin="58335ms" clipEnd="59005ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id78">
+      <!-- play -->
+      <text src="../015.xhtml#w78"/>
+      <audio clipBegin="59005ms" clipEnd="59335ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id79">
+      <!-- football -->
+      <text src="../015.xhtml#w79"/>
+      <audio clipBegin="59335ms" clipEnd="59925ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id79g">
+      <!--  -->
+      <text src="../015.xhtml#empty"/>
+      <audio clipBegin="59925ms" clipEnd="60836ms" src="../audio/9781484703298.m4a"/>
+    </par>
+  </body>
+</smil>

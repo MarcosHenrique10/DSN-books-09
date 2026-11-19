@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="13395ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="13395ms" clipEnd="13865ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="13865ms" clipEnd="14205ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Tennant -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="14205ms" clipEnd="14585ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Redbank -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="14585ms" clipEnd="15775ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="15775ms" clipEnd="16335ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="16335ms" clipEnd="16545ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Geefwee -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="16545ms" clipEnd="17085ms" src="../audio/9781423195689.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Boedoe -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="17085ms" clipEnd="17615ms" src="../audio/9781423195689.m4a"/>
+    </par>
+  </body>
+</smil>

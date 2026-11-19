@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id64g">
+			<!--  -->
+			<text src="../010.xhtml#empty"/>
+			<audio clipBegin="52683ms" clipEnd="53523ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id64">
+			<!-- But -->
+			<text src="../010.xhtml#w64"/>
+			<audio clipBegin="53523ms" clipEnd="53743ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id65">
+			<!-- none -->
+			<text src="../010.xhtml#w65"/>
+			<audio clipBegin="53743ms" clipEnd="54433ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id66">
+			<!-- were -->
+			<text src="../010.xhtml#w66"/>
+			<audio clipBegin="54433ms" clipEnd="54593ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id67">
+			<!-- quite -->
+			<text src="../010.xhtml#w67"/>
+			<audio clipBegin="54593ms" clipEnd="55053ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id68">
+			<!-- like -->
+			<text src="../010.xhtml#w68"/>
+			<audio clipBegin="55053ms" clipEnd="55293ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id69">
+			<!-- Bagheera -->
+			<text src="../010.xhtml#w69"/>
+			<audio clipBegin="55293ms" clipEnd="56273ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id70">
+			<!-- the -->
+			<text src="../010.xhtml#w70"/>
+			<audio clipBegin="56273ms" clipEnd="56489ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id71">
+			<!-- wise -->
+			<text src="../010.xhtml#w71"/>
+			<audio clipBegin="56489ms" clipEnd="57253ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id72">
+			<!-- panther -->
+			<text src="../010.xhtml#w72"/>
+			<audio clipBegin="57253ms" clipEnd="57823ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id72g">
+			<!--  -->
+			<text src="../010.xhtml#empty1"/>
+			<audio clipBegin="57823ms" clipEnd="58088ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

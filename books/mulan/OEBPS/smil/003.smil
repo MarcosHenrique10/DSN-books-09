@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="17750ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="17750ms" clipEnd="18370ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="18370ms" clipEnd="18580ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Gina -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="18580ms" clipEnd="19020ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Ingoglia -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="19020ms" clipEnd="20520ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Drawings -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="20520ms" clipEnd="21050ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="21050ms" clipEnd="21240ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- José -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="21240ms" clipEnd="21750ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Cardona -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="21750ms" clipEnd="23152ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Painted -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="23152ms" clipEnd="23600ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- by -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="23600ms" clipEnd="23770ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Don -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="23770ms" clipEnd="24100ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Williams -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="24100ms" clipEnd="24820ms" src="../audio/9781484785843.m4a"/>
+		</par>
+		<par id="id12g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="24820ms" clipEnd="25053ms" src="../audio/9781484785843.m4a"/>
+		</par>
+	</body>
+</smil>

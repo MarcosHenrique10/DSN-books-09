@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id134g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="91768ms" clipEnd="92663ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id134">
+			<!-- Bagheera -->
+			<text src="../018.xhtml#w134"/>
+			<audio clipBegin="92663ms" clipEnd="93133ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id135">
+			<!-- made -->
+			<text src="../018.xhtml#w135"/>
+			<audio clipBegin="93133ms" clipEnd="93423ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id136">
+			<!-- sure -->
+			<text src="../018.xhtml#w136"/>
+			<audio clipBegin="93423ms" clipEnd="93833ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id137">
+			<!-- Mowgli -->
+			<text src="../018.xhtml#w137"/>
+			<audio clipBegin="93833ms" clipEnd="94183ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id138">
+			<!-- knew -->
+			<text src="../018.xhtml#w138"/>
+			<audio clipBegin="94183ms" clipEnd="94883ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id139">
+			<!-- when -->
+			<text src="../018.xhtml#w139"/>
+			<audio clipBegin="94883ms" clipEnd="95123ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id140">
+			<!-- to -->
+			<text src="../018.xhtml#w140"/>
+			<audio clipBegin="95123ms" clipEnd="95303ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id141">
+			<!-- cover -->
+			<text src="../018.xhtml#w141"/>
+			<audio clipBegin="95303ms" clipEnd="95663ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id142">
+			<!-- his -->
+			<text src="../018.xhtml#w142"/>
+			<audio clipBegin="95663ms" clipEnd="95883ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id143">
+			<!-- tracks -->
+			<text src="../018.xhtml#w143"/>
+			<audio clipBegin="95883ms" clipEnd="96393ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id144">
+			<!-- from -->
+			<text src="../018.xhtml#w144"/>
+			<audio clipBegin="96393ms" clipEnd="96643ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id145">
+			<!-- predators -->
+			<text src="../018.xhtml#w145"/>
+			<audio clipBegin="96643ms" clipEnd="97293ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id145g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="97293ms" clipEnd="97758ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

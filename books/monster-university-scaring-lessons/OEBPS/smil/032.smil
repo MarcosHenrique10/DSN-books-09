@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id344g">
+      <!--  -->
+      <text src="../032.xhtml#empty"/>
+      <audio clipBegin="229113ms" clipEnd="231185ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id344">
+      <!-- Mike -->
+      <text src="../032.xhtml#w344"/>
+      <audio clipBegin="231185ms" clipEnd="231535ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id345">
+      <!-- and -->
+      <text src="../032.xhtml#w345"/>
+      <audio clipBegin="231535ms" clipEnd="231655ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id346">
+      <!-- Sulley -->
+      <text src="../032.xhtml#w346"/>
+      <audio clipBegin="231655ms" clipEnd="232375ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id347">
+      <!-- find -->
+      <text src="../032.xhtml#w347"/>
+      <audio clipBegin="232375ms" clipEnd="232705ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id348">
+      <!-- jobs -->
+      <text src="../032.xhtml#w348"/>
+      <audio clipBegin="232705ms" clipEnd="233295ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id349">
+      <!-- at -->
+      <text src="../032.xhtml#w349"/>
+      <audio clipBegin="233295ms" clipEnd="233425ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id350">
+      <!-- Monsters -->
+      <text src="../032.xhtml#w350"/>
+      <audio clipBegin="233425ms" clipEnd="234169ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id351">
+      <!-- Inc -->
+      <text src="../032.xhtml#w351"/>
+      <audio clipBegin="234169ms" clipEnd="234676ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id351-a">
+      <!-- END BUMPER -->
+      <text src="../032.xhtml#empty"/>
+      <audio clipBegin="234676ms" clipEnd="250900ms" src="../audio/9781423192411.m4a"/>
+    </par>
+  </body>
+</smil>

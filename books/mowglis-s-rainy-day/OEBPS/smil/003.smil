@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="14013ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Mowgli's -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="14013ms" clipEnd="14893ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- Rainy -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="14893ms" clipEnd="15673ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Day -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="15673ms" clipEnd="16783ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- BY -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="16783ms" clipEnd="17043ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Brittany -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="17043ms" clipEnd="17563ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- Rubiano -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="17563ms" clipEnd="18953ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- ILLUSTRATED -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="18953ms" clipEnd="19633ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- BY -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="19633ms" clipEnd="19843ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Mingjue -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="19843ms" clipEnd="20613ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Helen -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="20613ms" clipEnd="21093ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- Chen -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="21093ms" clipEnd="21673ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id11g">
+			<!--  -->
+			<text src="../003.xhtml#empty1"/>
+			<audio clipBegin="21673ms" clipEnd="21883ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

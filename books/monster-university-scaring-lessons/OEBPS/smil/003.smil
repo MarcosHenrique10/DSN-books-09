@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1">
+      <!-- By -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="14400ms" clipEnd="14715ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Susan -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="14715ms" clipEnd="15195ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Amerikaner -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="15195ms" clipEnd="16575ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="16575ms" clipEnd="17215ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="17215ms" clipEnd="17405ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Fabio -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="17405ms" clipEnd="17945ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Laguna -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="17945ms" clipEnd="18835ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Lori -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="18835ms" clipEnd="19165ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Tyminski -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="19165ms" clipEnd="20285ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Adrienne -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="20285ms" clipEnd="20825ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Brown -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="20825ms" clipEnd="21645ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Jeff -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="21645ms" clipEnd="21955ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Jenney -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="21955ms" clipEnd="22955ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Frank -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="22955ms" clipEnd="23355ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- Anduiza -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="23355ms" clipEnd="24455ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- and -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="24455ms" clipEnd="24635ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- the -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="24635ms" clipEnd="24695ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Disney -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="24695ms" clipEnd="25155ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Storybook -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="25155ms" clipEnd="25855ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- Artists -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="25855ms" clipEnd="26495ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id20g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="26495ms" clipEnd="28282ms" src="../audio/9781423192411.m4a"/>
+    </par>
+  </body>
+</smil>

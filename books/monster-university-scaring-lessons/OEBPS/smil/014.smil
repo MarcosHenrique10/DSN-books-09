@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id157g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="108389ms" clipEnd="110515ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id157">
+      <!-- Mike -->
+      <text src="../014.xhtml#w157"/>
+      <audio clipBegin="110515ms" clipEnd="110905ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id158">
+      <!-- trains -->
+      <text src="../014.xhtml#w158"/>
+      <audio clipBegin="110905ms" clipEnd="111385ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id159">
+      <!-- the -->
+      <text src="../014.xhtml#w159"/>
+      <audio clipBegin="111385ms" clipEnd="111635ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id160">
+      <!-- Oozma -->
+      <text src="../014.xhtml#w160"/>
+      <audio clipBegin="111635ms" clipEnd="112015ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id161">
+      <!-- Kappas -->
+      <text src="../014.xhtml#w161"/>
+      <audio clipBegin="112015ms" clipEnd="113015ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id162">
+      <!-- They -->
+      <text src="../014.xhtml#w162"/>
+      <audio clipBegin="113015ms" clipEnd="113155ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id163">
+      <!-- work -->
+      <text src="../014.xhtml#w163"/>
+      <audio clipBegin="113155ms" clipEnd="113415ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id164">
+      <!-- together -->
+      <text src="../014.xhtml#w164"/>
+      <audio clipBegin="113415ms" clipEnd="113905ms" src="../audio/9781423192411.m4a"/>
+    </par>
+    <par id="id164g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="113905ms" clipEnd="114415ms" src="../audio/9781423192411.m4a"/>
+    </par>
+  </body>
+</smil>

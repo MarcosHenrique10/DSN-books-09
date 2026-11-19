@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id285g">
+			<!--  -->
+			<text src="../032.xhtml#empty"/>
+			<audio clipBegin="170533ms" clipEnd="171403ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id285">
+			<!-- But -->
+			<text src="../032.xhtml#w285"/>
+			<audio clipBegin="171403ms" clipEnd="171613ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id286">
+			<!-- Baloo -->
+			<text src="../032.xhtml#w286"/>
+			<audio clipBegin="171613ms" clipEnd="172163ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id287">
+			<!-- taught -->
+			<text src="../032.xhtml#w287"/>
+			<audio clipBegin="172163ms" clipEnd="172523ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id288">
+			<!-- Mowgli -->
+			<text src="../032.xhtml#w288"/>
+			<audio clipBegin="172523ms" clipEnd="173233ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id289">
+			<!-- a -->
+			<text src="../032.xhtml#w289"/>
+			<audio clipBegin="173233ms" clipEnd="173473ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id290">
+			<!-- wonderful -->
+			<text src="../032.xhtml#w290"/>
+			<audio clipBegin="173473ms" clipEnd="174363ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id291">
+			<!-- rain -->
+			<text src="../032.xhtml#w291"/>
+			<audio clipBegin="174363ms" clipEnd="174763ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id292">
+			<!-- dance -->
+			<text src="../032.xhtml#w292"/>
+			<audio clipBegin="174763ms" clipEnd="175153ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id293">
+			<!-- instead -->
+			<text src="../032.xhtml#w293"/>
+			<audio clipBegin="175153ms" clipEnd="175813ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id293g">
+			<!--  -->
+			<text src="../032.xhtml#empty1"/>
+			<audio clipBegin="175813ms" clipEnd="176018ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id55g">
+      <!--  -->
+      <text src="../010.xhtml#empty"/>
+      <audio clipBegin="45903ms" clipEnd="46815ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- Five -->
+      <text src="../010.xhtml#w55"/>
+      <audio clipBegin="46815ms" clipEnd="47295ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- other -->
+      <text src="../010.xhtml#w56"/>
+      <audio clipBegin="47295ms" clipEnd="47565ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- teams -->
+      <text src="../010.xhtml#w57"/>
+      <audio clipBegin="47565ms" clipEnd="47985ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- are -->
+      <text src="../010.xhtml#w58"/>
+      <audio clipBegin="47985ms" clipEnd="48145ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- in -->
+      <text src="../010.xhtml#w59"/>
+      <audio clipBegin="48145ms" clipEnd="48335ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- the -->
+      <text src="../010.xhtml#w60"/>
+      <audio clipBegin="48335ms" clipEnd="48415ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- Scare -->
+      <text src="../010.xhtml#w61"/>
+      <audio clipBegin="48415ms" clipEnd="48795ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- Games -->
+      <text src="../010.xhtml#w62"/>
+      <audio clipBegin="48795ms" clipEnd="49255ms" src="../audio/9781484703298.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- too -->
+      <text src="../010.xhtml#w63"/>
+      <audio clipBegin="49255ms" clipEnd="49535ms" src="../audio/9781484703298.m4a"/>
+    </par>
+  </body>
+</smil>

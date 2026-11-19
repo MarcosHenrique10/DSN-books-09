@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id249g">
+			<!--  -->
+			<text src="../030.xhtml#empty"/>
+			<audio clipBegin="154113ms" clipEnd="154973ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id249">
+			<!-- Bagheera -->
+			<text src="../030.xhtml#w249"/>
+			<audio clipBegin="154973ms" clipEnd="155483ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- took -->
+			<text src="../030.xhtml#w250"/>
+			<audio clipBegin="155483ms" clipEnd="155773ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- shelter -->
+			<text src="../030.xhtml#w251"/>
+			<audio clipBegin="155773ms" clipEnd="156223ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- in -->
+			<text src="../030.xhtml#w252"/>
+			<audio clipBegin="156223ms" clipEnd="156493ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- Baloo's -->
+			<text src="../030.xhtml#w253"/>
+			<audio clipBegin="156493ms" clipEnd="157013ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id254">
+			<!-- cave -->
+			<text src="../030.xhtml#w254"/>
+			<audio clipBegin="157013ms" clipEnd="158523ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id255">
+			<!-- He -->
+			<text src="../030.xhtml#w255"/>
+			<audio clipBegin="158523ms" clipEnd="158733ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id256">
+			<!-- insisted -->
+			<text src="../030.xhtml#w256"/>
+			<audio clipBegin="158733ms" clipEnd="159353ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id257">
+			<!-- that -->
+			<text src="../030.xhtml#w257"/>
+			<audio clipBegin="159353ms" clipEnd="159493ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id258">
+			<!-- Mowgli -->
+			<text src="../030.xhtml#w258"/>
+			<audio clipBegin="159493ms" clipEnd="160193ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id259">
+			<!-- and -->
+			<text src="../030.xhtml#w259"/>
+			<audio clipBegin="160193ms" clipEnd="160343ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id260">
+			<!-- Baloo -->
+			<text src="../030.xhtml#w260"/>
+			<audio clipBegin="160343ms" clipEnd="160833ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id261">
+			<!-- join -->
+			<text src="../030.xhtml#w261"/>
+			<audio clipBegin="160833ms" clipEnd="161083ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id262">
+			<!-- him -->
+			<text src="../030.xhtml#w262"/>
+			<audio clipBegin="161083ms" clipEnd="161483ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id262g">
+			<!--  -->
+			<text src="../030.xhtml#empty1"/>
+			<audio clipBegin="161483ms" clipEnd="162083ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>

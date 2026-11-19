@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id182g">
+			<!--  -->
+			<text src="../024.xhtml#empty"/>
+			<audio clipBegin="120059ms" clipEnd="120273ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id182">
+			<!-- One -->
+			<text src="../024.xhtml#w182"/>
+			<audio clipBegin="120273ms" clipEnd="120643ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id183">
+			<!-- day -->
+			<text src="../024.xhtml#w183"/>
+			<audio clipBegin="120643ms" clipEnd="121483ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id184">
+			<!-- dark -->
+			<text src="../024.xhtml#w184"/>
+			<audio clipBegin="121483ms" clipEnd="122023ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id185">
+			<!-- heavy -->
+			<text src="../024.xhtml#w185"/>
+			<audio clipBegin="122023ms" clipEnd="122443ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id186">
+			<!-- clouds -->
+			<text src="../024.xhtml#w186"/>
+			<audio clipBegin="122443ms" clipEnd="123023ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id187">
+			<!-- swirled -->
+			<text src="../024.xhtml#w187"/>
+			<audio clipBegin="123023ms" clipEnd="123723ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id188">
+			<!-- in -->
+			<text src="../024.xhtml#w188"/>
+			<audio clipBegin="123723ms" clipEnd="123793ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id189">
+			<!-- the -->
+			<text src="../024.xhtml#w189"/>
+			<audio clipBegin="123793ms" clipEnd="123903ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id190">
+			<!-- sky -->
+			<text src="../024.xhtml#w190"/>
+			<audio clipBegin="123903ms" clipEnd="124563ms" src="../audio/9781484730096.m4a"/>
+		</par>
+		<par id="id190g">
+			<!--  -->
+			<text src="../024.xhtml#empty1"/>
+			<audio clipBegin="124563ms" clipEnd="124793ms" src="../audio/9781484730096.m4a"/>
+		</par>
+	</body>
+</smil>
