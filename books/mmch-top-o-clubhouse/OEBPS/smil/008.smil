@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id86g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="61773ms" clipEnd="62698ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- Hey -->
+      <text src="../008.xhtml#w86"/>
+      <audio clipBegin="62698ms" clipEnd="62938ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- gang -->
+      <text src="../008.xhtml#w87"/>
+      <audio clipBegin="62938ms" clipEnd="63638ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- Let's -->
+      <text src="../008.xhtml#w88"/>
+      <audio clipBegin="63638ms" clipEnd="64008ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- head -->
+      <text src="../008.xhtml#w89"/>
+      <audio clipBegin="64008ms" clipEnd="64258ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id90">
+      <!-- to -->
+      <text src="../008.xhtml#w90"/>
+      <audio clipBegin="64258ms" clipEnd="64358ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id91">
+      <!-- the -->
+      <text src="../008.xhtml#w91"/>
+      <audio clipBegin="64358ms" clipEnd="64468ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id92">
+      <!-- clover -->
+      <text src="../008.xhtml#w92"/>
+      <audio clipBegin="64468ms" clipEnd="64938ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id93">
+      <!-- patch -->
+      <text src="../008.xhtml#w93"/>
+      <audio clipBegin="64938ms" clipEnd="65658ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id94">
+      <!-- The -->
+      <text src="../008.xhtml#w94"/>
+      <audio clipBegin="65658ms" clipEnd="65748ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- Lucky -->
+      <text src="../008.xhtml#w95"/>
+      <audio clipBegin="65748ms" clipEnd="66498ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- Four -->
+      <text src="../008.xhtml#w96"/>
+      <audio clipBegin="66498ms" clipEnd="66738ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- Leaf -->
+      <text src="../008.xhtml#w97"/>
+      <audio clipBegin="66738ms" clipEnd="67028ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- Clover -->
+      <text src="../008.xhtml#w98"/>
+      <audio clipBegin="67028ms" clipEnd="67478ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- Contest -->
+      <text src="../008.xhtml#w99"/>
+      <audio clipBegin="67478ms" clipEnd="68158ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- is -->
+      <text src="../008.xhtml#w100"/>
+      <audio clipBegin="68158ms" clipEnd="68238ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- about -->
+      <text src="../008.xhtml#w101"/>
+      <audio clipBegin="68238ms" clipEnd="68648ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- to -->
+      <text src="../008.xhtml#w102"/>
+      <audio clipBegin="68648ms" clipEnd="68788ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- begin -->
+      <text src="../008.xhtml#w103"/>
+      <audio clipBegin="68788ms" clipEnd="69598ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- exclaims -->
+      <text src="../008.xhtml#w104"/>
+      <audio clipBegin="69598ms" clipEnd="70248ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- Mickey -->
+      <text src="../008.xhtml#w105"/>
+      <audio clipBegin="70248ms" clipEnd="70628ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id105g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="70628ms" clipEnd="71088ms" src="../audio/9781423189459.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id313g">
+			<!--  -->
+			<text src="../020.xhtml#empty"/>
+			<audio clipBegin="177222ms" clipEnd="178047ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id313">
+			<!-- Moana -->
+			<text src="../020.xhtml#w313"/>
+			<audio clipBegin="178047ms" clipEnd="178367ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id314">
+			<!-- and -->
+			<text src="../020.xhtml#w314"/>
+			<audio clipBegin="178367ms" clipEnd="178707ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id315">
+			<!-- Maui -->
+			<text src="../020.xhtml#w315"/>
+			<audio clipBegin="178707ms" clipEnd="179327ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id316">
+			<!-- go -->
+			<text src="../020.xhtml#w316"/>
+			<audio clipBegin="179327ms" clipEnd="179607ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id317">
+			<!-- to -->
+			<text src="../020.xhtml#w317"/>
+			<audio clipBegin="179607ms" clipEnd="179827ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id318">
+			<!-- the -->
+			<text src="../020.xhtml#w318"/>
+			<audio clipBegin="179827ms" clipEnd="179897ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id319">
+			<!-- world -->
+			<text src="../020.xhtml#w319"/>
+			<audio clipBegin="179897ms" clipEnd="180467ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id320">
+			<!-- of -->
+			<text src="../020.xhtml#w320"/>
+			<audio clipBegin="180467ms" clipEnd="180647ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id321">
+			<!-- monsters -->
+			<text src="../020.xhtml#w321"/>
+			<audio clipBegin="180647ms" clipEnd="182087ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id322">
+			<!-- They -->
+			<text src="../020.xhtml#w322"/>
+			<audio clipBegin="182087ms" clipEnd="182477ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id323">
+			<!-- find -->
+			<text src="../020.xhtml#w323"/>
+			<audio clipBegin="182477ms" clipEnd="182947ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id324">
+			<!-- a -->
+			<text src="../020.xhtml#w324"/>
+			<audio clipBegin="182947ms" clipEnd="183017ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id325">
+			<!-- crab -->
+			<text src="../020.xhtml#w325"/>
+			<audio clipBegin="183017ms" clipEnd="183397ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id326">
+			<!-- monster -->
+			<text src="../020.xhtml#w326"/>
+			<audio clipBegin="183397ms" clipEnd="184517ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id327">
+			<!-- He -->
+			<text src="../020.xhtml#w327"/>
+			<audio clipBegin="184517ms" clipEnd="184887ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id328">
+			<!-- has -->
+			<text src="../020.xhtml#w328"/>
+			<audio clipBegin="184887ms" clipEnd="185347ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id329">
+			<!-- Maui's -->
+			<text src="../020.xhtml#w329"/>
+			<audio clipBegin="185347ms" clipEnd="185847ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id330">
+			<!-- fishhook -->
+			<text src="../020.xhtml#w330"/>
+			<audio clipBegin="185847ms" clipEnd="187087ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id331">
+			<!-- Moana -->
+			<text src="../020.xhtml#w331"/>
+			<audio clipBegin="187087ms" clipEnd="187577ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id332">
+			<!-- tricks -->
+			<text src="../020.xhtml#w332"/>
+			<audio clipBegin="187577ms" clipEnd="188017ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id333">
+			<!-- the -->
+			<text src="../020.xhtml#w333"/>
+			<audio clipBegin="188017ms" clipEnd="188097ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id334">
+			<!-- monster -->
+			<text src="../020.xhtml#w334"/>
+			<audio clipBegin="188097ms" clipEnd="188757ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id334g">
+			<!--  -->
+			<text src="../020.xhtml#empty1"/>
+			<audio clipBegin="188757ms" clipEnd="189152ms" src="../audio/9781484799147.m4a"/>
+		</par>
+	</body>
+</smil>

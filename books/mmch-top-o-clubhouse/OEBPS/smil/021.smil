@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id404g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="220983ms" clipEnd="221428ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id404">
+      <!-- Oh -->
+      <text src="../021.xhtml#w404"/>
+      <audio clipBegin="221428ms" clipEnd="221838ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id405">
+      <!-- dear -->
+      <text src="../021.xhtml#w405"/>
+      <audio clipBegin="221838ms" clipEnd="222328ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id406">
+      <!-- cries -->
+      <text src="../021.xhtml#w406"/>
+      <audio clipBegin="222328ms" clipEnd="222828ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id407">
+      <!-- Daisy -->
+      <text src="../021.xhtml#w407"/>
+      <audio clipBegin="222828ms" clipEnd="223788ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id408">
+      <!-- Looks -->
+      <text src="../021.xhtml#w408"/>
+      <audio clipBegin="223788ms" clipEnd="224188ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id409">
+      <!-- like -->
+      <text src="../021.xhtml#w409"/>
+      <audio clipBegin="224188ms" clipEnd="224478ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id410">
+      <!-- Mickey -->
+      <text src="../021.xhtml#w410"/>
+      <audio clipBegin="224478ms" clipEnd="224928ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id411">
+      <!-- lost -->
+      <text src="../021.xhtml#w411"/>
+      <audio clipBegin="224928ms" clipEnd="225428ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id412">
+      <!-- his -->
+      <text src="../021.xhtml#w412"/>
+      <audio clipBegin="225428ms" clipEnd="225618ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id413">
+      <!-- lucky -->
+      <text src="../021.xhtml#w413"/>
+      <audio clipBegin="225618ms" clipEnd="226068ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id414">
+      <!-- clover -->
+      <text src="../021.xhtml#w414"/>
+      <audio clipBegin="226068ms" clipEnd="227488ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id415">
+      <!-- But -->
+      <text src="../021.xhtml#w415"/>
+      <audio clipBegin="227488ms" clipEnd="227648ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id416">
+      <!-- Mickey -->
+      <text src="../021.xhtml#w416"/>
+      <audio clipBegin="227648ms" clipEnd="228148ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id417">
+      <!-- has -->
+      <text src="../021.xhtml#w417"/>
+      <audio clipBegin="228148ms" clipEnd="228468ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id418">
+      <!-- a -->
+      <text src="../021.xhtml#w418"/>
+      <audio clipBegin="228468ms" clipEnd="228508ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id419">
+      <!-- plan -->
+      <text src="../021.xhtml#w419"/>
+      <audio clipBegin="228508ms" clipEnd="229618ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id420">
+      <!-- Oh -->
+      <text src="../021.xhtml#w420"/>
+      <audio clipBegin="229618ms" clipEnd="229958ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id421">
+      <!-- Toodles -->
+      <text src="../021.xhtml#w421"/>
+      <audio clipBegin="229958ms" clipEnd="231058ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id421g">
+      <!--  -->
+      <text src="../021.xhtml#empty"/>
+      <audio clipBegin="231058ms" clipEnd="231958ms" src="../audio/9781423189459.m4a"/>
+    </par>
+  </body>
+</smil>

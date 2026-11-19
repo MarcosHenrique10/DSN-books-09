@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id248g">
+      <!--  -->
+      <text src="../017.xhtml#empty"/>
+      <audio clipBegin="156460ms" clipEnd="156945ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id248">
+      <!-- You're -->
+      <text src="../017.xhtml#w248"/>
+      <audio clipBegin="156945ms" clipEnd="157425ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id249">
+      <!-- ready -->
+      <text src="../017.xhtml#w249"/>
+      <audio clipBegin="157425ms" clipEnd="158055ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id250">
+      <!-- says -->
+      <text src="../017.xhtml#w250"/>
+      <audio clipBegin="158055ms" clipEnd="158355ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id251">
+      <!-- the -->
+      <text src="../017.xhtml#w251"/>
+      <audio clipBegin="158355ms" clipEnd="158455ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id252">
+      <!-- Fairy -->
+      <text src="../017.xhtml#w252"/>
+      <audio clipBegin="158455ms" clipEnd="158795ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id253">
+      <!-- Godmother -->
+      <text src="../017.xhtml#w253"/>
+      <audio clipBegin="158795ms" clipEnd="160065ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id254">
+      <!-- How -->
+      <text src="../017.xhtml#w254"/>
+      <audio clipBegin="160065ms" clipEnd="160355ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id255">
+      <!-- will -->
+      <text src="../017.xhtml#w255"/>
+      <audio clipBegin="160355ms" clipEnd="160505ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id256">
+      <!-- I -->
+      <text src="../017.xhtml#w256"/>
+      <audio clipBegin="160505ms" clipEnd="160655ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id257">
+      <!-- get -->
+      <text src="../017.xhtml#w257"/>
+      <audio clipBegin="160655ms" clipEnd="160965ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id258">
+      <!-- there -->
+      <text src="../017.xhtml#w258"/>
+      <audio clipBegin="160965ms" clipEnd="161555ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id259">
+      <!-- asks -->
+      <text src="../017.xhtml#w259"/>
+      <audio clipBegin="161555ms" clipEnd="161955ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id260">
+      <!-- Minnierella -->
+      <text src="../017.xhtml#w260"/>
+      <audio clipBegin="161955ms" clipEnd="163335ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id261">
+      <!-- They -->
+      <text src="../017.xhtml#w261"/>
+      <audio clipBegin="163335ms" clipEnd="163555ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id262">
+      <!-- go -->
+      <text src="../017.xhtml#w262"/>
+      <audio clipBegin="163555ms" clipEnd="163885ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id263">
+      <!-- to -->
+      <text src="../017.xhtml#w263"/>
+      <audio clipBegin="163885ms" clipEnd="164065ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id264">
+      <!-- Goofy's -->
+      <text src="../017.xhtml#w264"/>
+      <audio clipBegin="164065ms" clipEnd="164595ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id265">
+      <!-- garden -->
+      <text src="../017.xhtml#w265"/>
+      <audio clipBegin="164595ms" clipEnd="165185ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id265g">
+      <!--  -->
+      <text src="../017.xhtml#empty"/>
+      <audio clipBegin="165185ms" clipEnd="166041ms" src="../audio/9781423193180.m4a"/>
+    </par>
+  </body>
+</smil>

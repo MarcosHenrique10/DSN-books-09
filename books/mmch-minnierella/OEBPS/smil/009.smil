@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id102g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="73370ms" clipEnd="73835ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- The -->
+      <text src="../009.xhtml#w102"/>
+      <audio clipBegin="73835ms" clipEnd="74035ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- Fairy -->
+      <text src="../009.xhtml#w103"/>
+      <audio clipBegin="74035ms" clipEnd="74365ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- Godmother -->
+      <text src="../009.xhtml#w104"/>
+      <audio clipBegin="74365ms" clipEnd="74985ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- will -->
+      <text src="../009.xhtml#w105"/>
+      <audio clipBegin="74985ms" clipEnd="75225ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id106">
+      <!-- help -->
+      <text src="../009.xhtml#w106"/>
+      <audio clipBegin="75225ms" clipEnd="75965ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id107">
+      <!-- She -->
+      <text src="../009.xhtml#w107"/>
+      <audio clipBegin="75965ms" clipEnd="76215ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id108">
+      <!-- waves -->
+      <text src="../009.xhtml#w108"/>
+      <audio clipBegin="76215ms" clipEnd="76735ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id109">
+      <!-- her -->
+      <text src="../009.xhtml#w109"/>
+      <audio clipBegin="76735ms" clipEnd="76925ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- wand -->
+      <text src="../009.xhtml#w110"/>
+      <audio clipBegin="76925ms" clipEnd="78165ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id111">
+      <!-- Oops -->
+      <text src="../009.xhtml#w111"/>
+      <audio clipBegin="78165ms" clipEnd="78925ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id112">
+      <!-- Flowers -->
+      <text src="../009.xhtml#w112"/>
+      <audio clipBegin="78925ms" clipEnd="79565ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id113">
+      <!-- grow -->
+      <text src="../009.xhtml#w113"/>
+      <audio clipBegin="79565ms" clipEnd="79875ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id114">
+      <!-- out -->
+      <text src="../009.xhtml#w114"/>
+      <audio clipBegin="79875ms" clipEnd="80055ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id115">
+      <!-- of -->
+      <text src="../009.xhtml#w115"/>
+      <audio clipBegin="80055ms" clipEnd="80135ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id116">
+      <!-- the -->
+      <text src="../009.xhtml#w116"/>
+      <audio clipBegin="80135ms" clipEnd="80235ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id117">
+      <!-- floor -->
+      <text src="../009.xhtml#w117"/>
+      <audio clipBegin="80235ms" clipEnd="81355ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id118">
+      <!-- Oh -->
+      <text src="../009.xhtml#w118"/>
+      <audio clipBegin="81355ms" clipEnd="81605ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id119">
+      <!-- Quoodles -->
+      <text src="../009.xhtml#w119"/>
+      <audio clipBegin="81605ms" clipEnd="82535ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id120">
+      <!-- she -->
+      <text src="../009.xhtml#w120"/>
+      <audio clipBegin="82535ms" clipEnd="82765ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id121">
+      <!-- calls -->
+      <text src="../009.xhtml#w121"/>
+      <audio clipBegin="82765ms" clipEnd="83345ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id121g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="83345ms" clipEnd="84246ms" src="../audio/9781423193180.m4a"/>
+    </par>
+  </body>
+</smil>

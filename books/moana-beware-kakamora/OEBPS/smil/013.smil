@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id145g">
+			<!--  -->
+			<text src="../013.xhtml#empty"/>
+			<audio clipBegin="89007ms" clipEnd="89422ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id145">
+			<!-- Angry -->
+			<text src="../013.xhtml#w145"/>
+			<audio clipBegin="89422ms" clipEnd="89842ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id146">
+			<!-- war -->
+			<text src="../013.xhtml#w146"/>
+			<audio clipBegin="89842ms" clipEnd="90172ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id147">
+			<!-- drums -->
+			<text src="../013.xhtml#w147"/>
+			<audio clipBegin="90172ms" clipEnd="90562ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id148">
+			<!-- fill -->
+			<text src="../013.xhtml#w148"/>
+			<audio clipBegin="90562ms" clipEnd="90752ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id149">
+			<!-- the -->
+			<text src="../013.xhtml#w149"/>
+			<audio clipBegin="90752ms" clipEnd="91062ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id150">
+			<!-- air -->
+			<text src="../013.xhtml#w150"/>
+			<audio clipBegin="91062ms" clipEnd="91942ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id151">
+			<!-- The -->
+			<text src="../013.xhtml#w151"/>
+			<audio clipBegin="91942ms" clipEnd="92112ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id152">
+			<!-- pirates -->
+			<text src="../013.xhtml#w152"/>
+			<audio clipBegin="92112ms" clipEnd="92502ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id153">
+			<!-- prepare -->
+			<text src="../013.xhtml#w153"/>
+			<audio clipBegin="92502ms" clipEnd="92792ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id154">
+			<!-- to -->
+			<text src="../013.xhtml#w154"/>
+			<audio clipBegin="92792ms" clipEnd="92952ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id155">
+			<!-- seize -->
+			<text src="../013.xhtml#w155"/>
+			<audio clipBegin="92952ms" clipEnd="93542ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id156">
+			<!-- Moana's -->
+			<text src="../013.xhtml#w156"/>
+			<audio clipBegin="93542ms" clipEnd="93982ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id157">
+			<!-- canoe -->
+			<text src="../013.xhtml#w157"/>
+			<audio clipBegin="93982ms" clipEnd="94632ms" src="../audio/9781484799109.m4a"/>
+		</par>
+		<par id="id157g">
+			<!--  -->
+			<text src="../013.xhtml#empty1"/>
+			<audio clipBegin="94632ms" clipEnd="94853ms" src="../audio/9781484799109.m4a"/>
+		</par>
+	</body>
+</smil>

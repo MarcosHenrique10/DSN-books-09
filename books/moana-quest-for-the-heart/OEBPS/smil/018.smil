@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id270g">
+			<!--  -->
+			<text src="../018.xhtml#empty"/>
+			<audio clipBegin="157547ms" clipEnd="158367ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id270">
+			<!-- Maui -->
+			<text src="../018.xhtml#w270"/>
+			<audio clipBegin="158367ms" clipEnd="158777ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id271">
+			<!-- steals -->
+			<text src="../018.xhtml#w271"/>
+			<audio clipBegin="158777ms" clipEnd="159437ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id272">
+			<!-- Moana's -->
+			<text src="../018.xhtml#w272"/>
+			<audio clipBegin="159437ms" clipEnd="160077ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id273">
+			<!-- boat -->
+			<text src="../018.xhtml#w273"/>
+			<audio clipBegin="160077ms" clipEnd="161007ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id274">
+			<!-- He -->
+			<text src="../018.xhtml#w274"/>
+			<audio clipBegin="161007ms" clipEnd="161207ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id275">
+			<!-- sails -->
+			<text src="../018.xhtml#w275"/>
+			<audio clipBegin="161207ms" clipEnd="161637ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id276">
+			<!-- off -->
+			<text src="../018.xhtml#w276"/>
+			<audio clipBegin="161637ms" clipEnd="161897ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id277">
+			<!-- without -->
+			<text src="../018.xhtml#w277"/>
+			<audio clipBegin="161897ms" clipEnd="162247ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id278">
+			<!-- her -->
+			<text src="../018.xhtml#w278"/>
+			<audio clipBegin="162247ms" clipEnd="162987ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id279">
+			<!-- The -->
+			<text src="../018.xhtml#w279"/>
+			<audio clipBegin="162987ms" clipEnd="163207ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id280">
+			<!-- ocean -->
+			<text src="../018.xhtml#w280"/>
+			<audio clipBegin="163207ms" clipEnd="163677ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id281">
+			<!-- brings -->
+			<text src="../018.xhtml#w281"/>
+			<audio clipBegin="163677ms" clipEnd="164067ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id282">
+			<!-- Moana -->
+			<text src="../018.xhtml#w282"/>
+			<audio clipBegin="164067ms" clipEnd="164507ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id283">
+			<!-- back -->
+			<text src="../018.xhtml#w283"/>
+			<audio clipBegin="164507ms" clipEnd="164787ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id284">
+			<!-- to -->
+			<text src="../018.xhtml#w284"/>
+			<audio clipBegin="164787ms" clipEnd="164967ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id285">
+			<!-- Maui -->
+			<text src="../018.xhtml#w285"/>
+			<audio clipBegin="164967ms" clipEnd="165587ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id286">
+			<!-- and -->
+			<text src="../018.xhtml#w286"/>
+			<audio clipBegin="165587ms" clipEnd="165687ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id287">
+			<!-- makes -->
+			<text src="../018.xhtml#w287"/>
+			<audio clipBegin="165687ms" clipEnd="165947ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id288">
+			<!-- him -->
+			<text src="../018.xhtml#w288"/>
+			<audio clipBegin="165947ms" clipEnd="166137ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id289">
+			<!-- teach -->
+			<text src="../018.xhtml#w289"/>
+			<audio clipBegin="166137ms" clipEnd="166527ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id290">
+			<!-- her -->
+			<text src="../018.xhtml#w290"/>
+			<audio clipBegin="166527ms" clipEnd="166707ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id291">
+			<!-- to -->
+			<text src="../018.xhtml#w291"/>
+			<audio clipBegin="166707ms" clipEnd="166887ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id292">
+			<!-- sail -->
+			<text src="../018.xhtml#w292"/>
+			<audio clipBegin="166887ms" clipEnd="167467ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id292g">
+			<!--  -->
+			<text src="../018.xhtml#empty1"/>
+			<audio clipBegin="167467ms" clipEnd="167907ms" src="../audio/9781484799147.m4a"/>
+		</par>
+	</body>
+</smil>

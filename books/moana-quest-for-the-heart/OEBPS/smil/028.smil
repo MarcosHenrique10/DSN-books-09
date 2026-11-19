@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id435g">
+			<!--  -->
+			<text src="../028.xhtml#empty"/>
+			<audio clipBegin="245607ms" clipEnd="246427ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id435">
+			<!-- Moana -->
+			<text src="../028.xhtml#w435"/>
+			<audio clipBegin="246427ms" clipEnd="246877ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id436">
+			<!-- and -->
+			<text src="../028.xhtml#w436"/>
+			<audio clipBegin="246877ms" clipEnd="247037ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id437">
+			<!-- Maui -->
+			<text src="../028.xhtml#w437"/>
+			<audio clipBegin="247037ms" clipEnd="247467ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id438">
+			<!-- saved -->
+			<text src="../028.xhtml#w438"/>
+			<audio clipBegin="247467ms" clipEnd="248017ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id439">
+			<!-- the -->
+			<text src="../028.xhtml#w439"/>
+			<audio clipBegin="248017ms" clipEnd="248277ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id440">
+			<!-- islands -->
+			<text src="../028.xhtml#w440"/>
+			<audio clipBegin="248277ms" clipEnd="249567ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id441">
+			<!-- They -->
+			<text src="../028.xhtml#w441"/>
+			<audio clipBegin="249567ms" clipEnd="249737ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id442">
+			<!-- saved -->
+			<text src="../028.xhtml#w442"/>
+			<audio clipBegin="249737ms" clipEnd="250277ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id443">
+			<!-- each -->
+			<text src="../028.xhtml#w443"/>
+			<audio clipBegin="250277ms" clipEnd="250507ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id444">
+			<!-- other -->
+			<text src="../028.xhtml#w444"/>
+			<audio clipBegin="250507ms" clipEnd="251497ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id445">
+			<!-- They -->
+			<text src="../028.xhtml#w445"/>
+			<audio clipBegin="251497ms" clipEnd="251747ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id446">
+			<!-- say -->
+			<text src="../028.xhtml#w446"/>
+			<audio clipBegin="251747ms" clipEnd="252167ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id447">
+			<!-- goodbye -->
+			<text src="../028.xhtml#w447"/>
+			<audio clipBegin="252167ms" clipEnd="253707ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id448">
+			<!-- They -->
+			<text src="../028.xhtml#w448"/>
+			<audio clipBegin="253707ms" clipEnd="253857ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id449">
+			<!-- will -->
+			<text src="../028.xhtml#w449"/>
+			<audio clipBegin="253857ms" clipEnd="254107ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id450">
+			<!-- always -->
+			<text src="../028.xhtml#w450"/>
+			<audio clipBegin="254107ms" clipEnd="254857ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id451">
+			<!-- be -->
+			<text src="../028.xhtml#w451"/>
+			<audio clipBegin="254857ms" clipEnd="255017ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id452">
+			<!-- friends -->
+			<text src="../028.xhtml#w452"/>
+			<audio clipBegin="255017ms" clipEnd="255697ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id452g">
+			<!--  -->
+			<text src="../028.xhtml#empty1"/>
+			<audio clipBegin="255697ms" clipEnd="256127ms" src="../audio/9781484799147.m4a"/>
+		</par>
+	</body>
+</smil>

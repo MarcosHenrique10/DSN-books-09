@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id181g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="115340ms" clipEnd="115825ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id181">
+      <!-- The -->
+      <text src="../013.xhtml#w181"/>
+      <audio clipBegin="115825ms" clipEnd="116085ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id182">
+      <!-- Fairy -->
+      <text src="../013.xhtml#w182"/>
+      <audio clipBegin="116085ms" clipEnd="116435ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id183">
+      <!-- Godmother -->
+      <text src="../013.xhtml#w183"/>
+      <audio clipBegin="116435ms" clipEnd="117045ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id184">
+      <!-- whistles -->
+      <text src="../013.xhtml#w184"/>
+      <audio clipBegin="117045ms" clipEnd="118165ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id185">
+      <!-- Some -->
+      <text src="../013.xhtml#w185"/>
+      <audio clipBegin="118165ms" clipEnd="118455ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id186">
+      <!-- little -->
+      <text src="../013.xhtml#w186"/>
+      <audio clipBegin="118455ms" clipEnd="118975ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id187">
+      <!-- friends -->
+      <text src="../013.xhtml#w187"/>
+      <audio clipBegin="118975ms" clipEnd="119445ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id188">
+      <!-- come -->
+      <text src="../013.xhtml#w188"/>
+      <audio clipBegin="119445ms" clipEnd="119735ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id189">
+      <!-- to -->
+      <text src="../013.xhtml#w189"/>
+      <audio clipBegin="119735ms" clipEnd="119855ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id190">
+      <!-- help -->
+      <text src="../013.xhtml#w190"/>
+      <audio clipBegin="119855ms" clipEnd="120815ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id191">
+      <!-- Soon -->
+      <text src="../013.xhtml#w191"/>
+      <audio clipBegin="120815ms" clipEnd="121325ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id192">
+      <!-- Minnierella -->
+      <text src="../013.xhtml#w192"/>
+      <audio clipBegin="121325ms" clipEnd="122275ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id193">
+      <!-- has -->
+      <text src="../013.xhtml#w193"/>
+      <audio clipBegin="122275ms" clipEnd="122525ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id194">
+      <!-- a -->
+      <text src="../013.xhtml#w194"/>
+      <audio clipBegin="122525ms" clipEnd="122625ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id195">
+      <!-- lovely -->
+      <text src="../013.xhtml#w195"/>
+      <audio clipBegin="122625ms" clipEnd="123285ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id196">
+      <!-- dress -->
+      <text src="../013.xhtml#w196"/>
+      <audio clipBegin="123285ms" clipEnd="123895ms" src="../audio/9781423193180.m4a"/>
+    </par>
+    <par id="id196g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="123895ms" clipEnd="124708ms" src="../audio/9781423193180.m4a"/>
+    </par>
+  </body>
+</smil>

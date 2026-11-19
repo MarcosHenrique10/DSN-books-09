@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id234g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="130173ms" clipEnd="131058ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id234">
+      <!-- Toodles -->
+      <text src="../014.xhtml#w234"/>
+      <audio clipBegin="131058ms" clipEnd="131698ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id235">
+      <!-- arrives -->
+      <text src="../014.xhtml#w235"/>
+      <audio clipBegin="131698ms" clipEnd="132458ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id236">
+      <!-- with -->
+      <text src="../014.xhtml#w236"/>
+      <audio clipBegin="132458ms" clipEnd="132688ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id237">
+      <!-- the -->
+      <text src="../014.xhtml#w237"/>
+      <audio clipBegin="132688ms" clipEnd="132788ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id238">
+      <!-- Mouseketools -->
+      <text src="../014.xhtml#w238"/>
+      <audio clipBegin="132788ms" clipEnd="134198ms" src="../audio/9781423189459.m4a"/>
+    </par>
+    <par id="id238g">
+      <!--  -->
+      <text src="../014.xhtml#empty"/>
+      <audio clipBegin="134198ms" clipEnd="134803ms" src="../audio/9781423189459.m4a"/>
+    </par>
+  </body>
+</smil>

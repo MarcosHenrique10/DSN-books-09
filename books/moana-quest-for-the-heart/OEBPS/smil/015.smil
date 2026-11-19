@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id219g">
+			<!--  -->
+			<text src="../015.xhtml#empty"/>
+			<audio clipBegin="130267ms" clipEnd="130687ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id219">
+			<!-- A -->
+			<text src="../015.xhtml#w219"/>
+			<audio clipBegin="130687ms" clipEnd="130777ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id220">
+			<!-- storm -->
+			<text src="../015.xhtml#w220"/>
+			<audio clipBegin="130777ms" clipEnd="131497ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id221">
+			<!-- hits -->
+			<text src="../015.xhtml#w221"/>
+			<audio clipBegin="131497ms" clipEnd="132717ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id222">
+			<!-- The -->
+			<text src="../015.xhtml#w222"/>
+			<audio clipBegin="132717ms" clipEnd="132987ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id223">
+			<!-- ocean -->
+			<text src="../015.xhtml#w223"/>
+			<audio clipBegin="132987ms" clipEnd="133427ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id224">
+			<!-- brings -->
+			<text src="../015.xhtml#w224"/>
+			<audio clipBegin="133427ms" clipEnd="133817ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id225">
+			<!-- Moana -->
+			<text src="../015.xhtml#w225"/>
+			<audio clipBegin="133817ms" clipEnd="134387ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id226">
+			<!-- to -->
+			<text src="../015.xhtml#w226"/>
+			<audio clipBegin="134387ms" clipEnd="134757ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id227">
+			<!-- Maui's -->
+			<text src="../015.xhtml#w227"/>
+			<audio clipBegin="134757ms" clipEnd="135427ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id228">
+			<!-- island -->
+			<text src="../015.xhtml#w228"/>
+			<audio clipBegin="135427ms" clipEnd="136077ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id228g">
+			<!--  -->
+			<text src="../015.xhtml#empty1"/>
+			<audio clipBegin="136077ms" clipEnd="136887ms" src="../audio/9781484799147.m4a"/>
+		</par>
+	</body>
+</smil>

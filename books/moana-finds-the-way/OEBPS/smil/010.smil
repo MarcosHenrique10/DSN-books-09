@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id94g">
+			<!--  -->
+			<text src="../010.xhtml#empty"/>
+			<audio clipBegin="65919ms" clipEnd="66729ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id94">
+			<!-- Gramma -->
+			<text src="../010.xhtml#w94"/>
+			<audio clipBegin="66729ms" clipEnd="67059ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id95">
+			<!-- Tala -->
+			<text src="../010.xhtml#w95"/>
+			<audio clipBegin="67059ms" clipEnd="67449ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id96">
+			<!-- tells -->
+			<text src="../010.xhtml#w96"/>
+			<audio clipBegin="67449ms" clipEnd="67829ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id97">
+			<!-- Moana -->
+			<text src="../010.xhtml#w97"/>
+			<audio clipBegin="67829ms" clipEnd="68419ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id98">
+			<!-- she -->
+			<text src="../010.xhtml#w98"/>
+			<audio clipBegin="68419ms" clipEnd="68599ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id99">
+			<!-- must -->
+			<text src="../010.xhtml#w99"/>
+			<audio clipBegin="68599ms" clipEnd="68849ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id100">
+			<!-- find -->
+			<text src="../010.xhtml#w100"/>
+			<audio clipBegin="68849ms" clipEnd="69199ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id101">
+			<!-- Maui -->
+			<text src="../010.xhtml#w101"/>
+			<audio clipBegin="69199ms" clipEnd="69849ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id102">
+			<!-- and -->
+			<text src="../010.xhtml#w102"/>
+			<audio clipBegin="69849ms" clipEnd="69979ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id103">
+			<!-- return -->
+			<text src="../010.xhtml#w103"/>
+			<audio clipBegin="69979ms" clipEnd="70499ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id104">
+			<!-- Te -->
+			<text src="../010.xhtml#w104"/>
+			<audio clipBegin="70499ms" clipEnd="70659ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id105">
+			<!-- Fiti's -->
+			<text src="../010.xhtml#w105"/>
+			<audio clipBegin="70659ms" clipEnd="70969ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id106">
+			<!-- heart -->
+			<text src="../010.xhtml#w106"/>
+			<audio clipBegin="70969ms" clipEnd="71409ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id106g">
+			<!--  -->
+			<text src="../010.xhtml#empty1"/>
+			<audio clipBegin="71409ms" clipEnd="71834ms" src="../audio/9781484799130.m4a"/>
+		</par>
+	</body>
+</smil>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id249g">
+			<!--  -->
+			<text src="../023.xhtml#empty"/>
+			<audio clipBegin="154444ms" clipEnd="154849ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id249">
+			<!-- Moana -->
+			<text src="../023.xhtml#w249"/>
+			<audio clipBegin="154849ms" clipEnd="155339ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id250">
+			<!-- leads -->
+			<text src="../023.xhtml#w250"/>
+			<audio clipBegin="155339ms" clipEnd="155799ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id251">
+			<!-- her -->
+			<text src="../023.xhtml#w251"/>
+			<audio clipBegin="155799ms" clipEnd="155879ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id252">
+			<!-- people -->
+			<text src="../023.xhtml#w252"/>
+			<audio clipBegin="155879ms" clipEnd="156259ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id253">
+			<!-- to -->
+			<text src="../023.xhtml#w253"/>
+			<audio clipBegin="156259ms" clipEnd="156539ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id254">
+			<!-- new -->
+			<text src="../023.xhtml#w254"/>
+			<audio clipBegin="156539ms" clipEnd="156939ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id255">
+			<!-- islands -->
+			<text src="../023.xhtml#w255"/>
+			<audio clipBegin="156939ms" clipEnd="158189ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id256">
+			<!-- She -->
+			<text src="../023.xhtml#w256"/>
+			<audio clipBegin="158189ms" clipEnd="158809ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id257">
+			<!-- is -->
+			<text src="../023.xhtml#w257"/>
+			<audio clipBegin="158809ms" clipEnd="159279ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id258">
+			<!-- a -->
+			<text src="../023.xhtml#w258"/>
+			<audio clipBegin="159279ms" clipEnd="159379ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id259">
+			<!-- great -->
+			<text src="../023.xhtml#w259"/>
+			<audio clipBegin="159379ms" clipEnd="159819ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id260">
+			<!-- wayfinder -->
+			<text src="../023.xhtml#w260"/>
+			<audio clipBegin="159819ms" clipEnd="160659ms" src="../audio/9781484799130.m4a"/>
+		</par>
+		<par id="id260g">
+			<!--  -->
+			<text src="../023.xhtml#empty1"/>
+			<audio clipBegin="160659ms" clipEnd="161454ms" src="../audio/9781484799130.m4a"/>
+		</par>
+	</body>
+</smil>

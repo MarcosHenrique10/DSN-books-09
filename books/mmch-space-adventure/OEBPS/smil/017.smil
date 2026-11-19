@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id428g">
+      <!--  -->
+      <text src="../017.xhtml#empty"/>
+      <audio clipBegin="225745ms" clipEnd="226185ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id428">
+      <!-- Martian -->
+      <text src="../017.xhtml#w428"/>
+      <audio clipBegin="226185ms" clipEnd="226705ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id429">
+      <!-- Mickey -->
+      <text src="../017.xhtml#w429"/>
+      <audio clipBegin="226705ms" clipEnd="227045ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id430">
+      <!-- says -->
+      <text src="../017.xhtml#w430"/>
+      <audio clipBegin="227045ms" clipEnd="228045ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id431">
+      <!-- They -->
+      <text src="../017.xhtml#w431"/>
+      <audio clipBegin="228045ms" clipEnd="228245ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id432">
+      <!-- may -->
+      <text src="../017.xhtml#w432"/>
+      <audio clipBegin="228245ms" clipEnd="228505ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id433">
+      <!-- be -->
+      <text src="../017.xhtml#w433"/>
+      <audio clipBegin="228505ms" clipEnd="228795ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id434">
+      <!-- in -->
+      <text src="../017.xhtml#w434"/>
+      <audio clipBegin="228795ms" clipEnd="228925ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id435">
+      <!-- the -->
+      <text src="../017.xhtml#w435"/>
+      <audio clipBegin="228925ms" clipEnd="229045ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id436">
+      <!-- Star -->
+      <text src="../017.xhtml#w436"/>
+      <audio clipBegin="229045ms" clipEnd="229445ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id437">
+      <!-- Tree -->
+      <text src="../017.xhtml#w437"/>
+      <audio clipBegin="229445ms" clipEnd="229845ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id438">
+      <!-- Forest -->
+      <text src="../017.xhtml#w438"/>
+      <audio clipBegin="229845ms" clipEnd="230585ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id438g">
+      <!--  -->
+      <text src="../017.xhtml#empty"/>
+      <audio clipBegin="230585ms" clipEnd="231420ms" src="../audio/9781423195603.m4a"/>
+    </par>
+  </body>
+</smil>

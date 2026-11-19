@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id453g">
+			<!--  -->
+			<text src="../029.xhtml#empty"/>
+			<audio clipBegin="256127ms" clipEnd="256557ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id453">
+			<!-- Maui -->
+			<text src="../029.xhtml#w453"/>
+			<audio clipBegin="256557ms" clipEnd="257287ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id454">
+			<!-- changes -->
+			<text src="../029.xhtml#w454"/>
+			<audio clipBegin="257287ms" clipEnd="257717ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id455">
+			<!-- back -->
+			<text src="../029.xhtml#w455"/>
+			<audio clipBegin="257717ms" clipEnd="258037ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id456">
+			<!-- into -->
+			<text src="../029.xhtml#w456"/>
+			<audio clipBegin="258037ms" clipEnd="258217ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id457">
+			<!-- a -->
+			<text src="../029.xhtml#w457"/>
+			<audio clipBegin="258217ms" clipEnd="258327ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id458">
+			<!-- giant -->
+			<text src="../029.xhtml#w458"/>
+			<audio clipBegin="258327ms" clipEnd="258827ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id459">
+			<!-- hawk -->
+			<text src="../029.xhtml#w459"/>
+			<audio clipBegin="258827ms" clipEnd="259317ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id459g">
+			<!--  -->
+			<text src="../029.xhtml#empty1"/>
+			<audio clipBegin="259317ms" clipEnd="260142ms" src="../audio/9781484799147.m4a"/>
+		</par>
+	</body>
+</smil>

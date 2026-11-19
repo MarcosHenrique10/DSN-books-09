@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id1g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="100ms" clipEnd="13521ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id1">
+			<!-- Adapted -->
+			<text src="../003.xhtml#w1"/>
+			<audio clipBegin="13521ms" clipEnd="13971ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id2">
+			<!-- by -->
+			<text src="../003.xhtml#w2"/>
+			<audio clipBegin="13971ms" clipEnd="14141ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id3">
+			<!-- Laura -->
+			<text src="../003.xhtml#w3"/>
+			<audio clipBegin="14141ms" clipEnd="14471ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id4">
+			<!-- Hitchcock -->
+			<text src="../003.xhtml#w4"/>
+			<audio clipBegin="14471ms" clipEnd="15731ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id5">
+			<!-- Illustrated -->
+			<text src="../003.xhtml#w5"/>
+			<audio clipBegin="15731ms" clipEnd="16341ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id6">
+			<!-- by -->
+			<text src="../003.xhtml#w6"/>
+			<audio clipBegin="16341ms" clipEnd="16571ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id7">
+			<!-- Griselda -->
+			<text src="../003.xhtml#w7"/>
+			<audio clipBegin="16571ms" clipEnd="17341ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id8">
+			<!-- Sastrawinata -->
+			<text src="../003.xhtml#w8"/>
+			<audio clipBegin="17341ms" clipEnd="18311ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id9">
+			<!-- Lemay -->
+			<text src="../003.xhtml#w9"/>
+			<audio clipBegin="18311ms" clipEnd="19271ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id10">
+			<!-- Designed -->
+			<text src="../003.xhtml#w10"/>
+			<audio clipBegin="19271ms" clipEnd="19831ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id11">
+			<!-- by -->
+			<text src="../003.xhtml#w11"/>
+			<audio clipBegin="19831ms" clipEnd="20011ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id12">
+			<!-- Tony -->
+			<text src="../003.xhtml#w12"/>
+			<audio clipBegin="20011ms" clipEnd="20401ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id13">
+			<!-- Fejeran -->
+			<text src="../003.xhtml#w13"/>
+			<audio clipBegin="20401ms" clipEnd="20831ms" src="../audio/9781484799093.m4a"/>
+		</par>
+		<par id="id13g">
+			<!--  -->
+			<text src="../003.xhtml#empty"/>
+			<audio clipBegin="20831ms" clipEnd="21035ms" src="../audio/9781484799093.m4a"/>
+		</par>
+	</body>
+</smil>

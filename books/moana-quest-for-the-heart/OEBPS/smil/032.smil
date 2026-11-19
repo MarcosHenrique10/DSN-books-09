@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+	<body>
+		<par id="id489g">
+			<!--  -->
+			<text src="../032.xhtml#empty"/>
+			<audio clipBegin="276517ms" clipEnd="277317ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id489">
+			<!-- She -->
+			<text src="../032.xhtml#w489"/>
+			<audio clipBegin="277317ms" clipEnd="277757ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id490">
+			<!-- is -->
+			<text src="../032.xhtml#w490"/>
+			<audio clipBegin="277757ms" clipEnd="278447ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id491">
+			<!-- Moana -->
+			<text src="../032.xhtml#w491"/>
+			<audio clipBegin="278447ms" clipEnd="279757ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id492">
+			<!-- the -->
+			<text src="../032.xhtml#w492"/>
+			<audio clipBegin="279757ms" clipEnd="279887ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id493">
+			<!-- leader -->
+			<text src="../032.xhtml#w493"/>
+			<audio clipBegin="279887ms" clipEnd="280667ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id494">
+			<!-- of -->
+			<text src="../032.xhtml#w494"/>
+			<audio clipBegin="280667ms" clipEnd="280807ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id495">
+			<!-- her -->
+			<text src="../032.xhtml#w495"/>
+			<audio clipBegin="280807ms" clipEnd="281007ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id496">
+			<!-- people -->
+			<text src="../032.xhtml#w496"/>
+			<audio clipBegin="281007ms" clipEnd="282557ms" src="../audio/9781484799147.m4a"/>
+		</par>
+		<par id="id496g">
+			<!--  -->
+			<text src="../032.xhtml#empty1"/>
+			<audio clipBegin="282557ms" clipEnd="294070ms" src="../audio/9781484799147.m4a"/>
+		</par>
+	</body>
+</smil>

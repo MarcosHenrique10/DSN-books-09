@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="13107ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="space-adventure">
+      <!-- Space Adventure -->
+      <text src="../003.xhtml#space-adventure"/>
+      <audio clipBegin="13107ms" clipEnd="15185ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida1">
+      <!-- By -->
+      <text src="../003.xhtml#a1"/>
+      <audio clipBegin="15185ms" clipEnd="15395ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida2">
+      <!-- Susan -->
+      <text src="../003.xhtml#a2"/>
+      <audio clipBegin="15395ms" clipEnd="16155ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida3">
+      <!-- Amerikaner -->
+      <text src="../003.xhtml#a3"/>
+      <audio clipBegin="16155ms" clipEnd="17535ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida4">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#a4"/>
+      <audio clipBegin="17535ms" clipEnd="18275ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida5">
+      <!-- by -->
+      <text src="../003.xhtml#a5"/>
+      <audio clipBegin="18275ms" clipEnd="18455ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida6">
+      <!-- Loter -->
+      <text src="../003.xhtml#a6"/>
+      <audio clipBegin="18455ms" clipEnd="18925ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="ida7">
+      <!-- Inc -->
+      <text src="../003.xhtml#a7"/>
+      <audio clipBegin="18925ms" clipEnd="19785ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Based -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="19785ms" clipEnd="20135ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- on -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="20135ms" clipEnd="20305ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- the -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="20305ms" clipEnd="20465ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- episode -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="20465ms" clipEnd="21275ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- written -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="21275ms" clipEnd="21575ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="21575ms" clipEnd="21765ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Kevin -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="21765ms" clipEnd="22235ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- D -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="22235ms" clipEnd="22445ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Campbell -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="22445ms" clipEnd="23295ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- Don -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="23295ms" clipEnd="23685ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- Gillies -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="23685ms" clipEnd="24555ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- and -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="24555ms" clipEnd="24675ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Mark -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="24675ms" clipEnd="24975ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Seidenberg -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="24975ms" clipEnd="25785ms" src="../audio/9781423195603.m4a"/>
+    </par>
+    <par id="id14g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="25785ms" clipEnd="26605ms" src="../audio/9781423195603.m4a"/>
+    </par>
+  </body>
+</smil>

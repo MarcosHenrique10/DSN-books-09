@@ -1,0 +1,1035 @@
+img{z-index:-1;}
+body {
+	width: 901px;
+	height: 1101px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 901px;
+	height: 1101px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+p.nonindent0{
+	font-size: 35px;
+	line-height: 43px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.nonindent16{
+	font-size: 29px;
+	line-height: 35px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.fm{
+	font-size: 23px;
+	line-height: 28px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.ded0{
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.ded{
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 12px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.tiki_sans{
+	font-size: 14px;
+	line-height: 16px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Tiki-Island";
+}
+p.crt0{
+	font-size: 10px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+	font-family:"CanvasText-Sans";
+}
+p.crt{
+	font-size: 10px;
+	line-height: 15px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+	font-family:"CanvasText-Sans";
+}
+p.author0{
+	font-size: 30px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"Tiki-Island";
+}
+p.author{
+	font-size: 30px;
+	line-height: 32px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 13px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"Tiki-Island";
+}
+p.convas_center{
+	font-size: 35px;
+	line-height: 47px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.center0{
+	font-size: 48px;
+	line-height: 49px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.center_tiki{
+	font-size: 55px;
+	line-height: 56px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"Tiki-Island";
+}
+p.nonindent1{
+	font-size: 35px;
+	line-height: 50px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.center20{
+	font-size: 35px;
+	line-height: 41px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.center23{
+	font-size: 35px;
+	line-height: 44px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.center24{
+	font-size: 48px;
+	line-height: 51px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.nonindent1A{
+	font-size: 35px;
+	line-height: 40px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.nonindent1AA{
+	font-size: 35px;
+	line-height: 36px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.nonindent17{
+	font-size: 35px;
+	line-height: 43px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.nonindent2{
+	font-size: 48px;
+	line-height: 52px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.left_tiki{
+	font-size: 55px;
+	line-height: 60px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"Tiki-Island";
+}
+p.nonindent3{
+	font-size: 115px;
+	line-height: 115px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 0px;
+	font-family:"Tiki-Island";
+}
+p.center34{
+	font-size: 43px;
+	line-height: 36px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"CanvasText-Sans";
+}
+p.ata{
+	font-size: 33px;
+	line-height: 35px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:"Tiki-Island";
+}
+p.ata1{
+	font-size: 16px;
+	line-height: 24px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 6px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	font-family:"CanvasText-Sans";
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 102px;
+	left: 195px;
+	right: 0px;
+width: 511px;height: 108px;}
+div.page2_item2{
+	position: absolute;
+	top: 256px;
+	left: 205px;
+	right: 0px;
+width: 484px;height: 136px;}
+div.page2_item3{
+	position: absolute;
+	top: 804px;
+	left: 381px;
+	right: 0px;
+width: 140px;height: 31px;}
+div.page2_item4{
+	position: absolute;
+	top: 852px;
+	left: 160px;
+	right: 0px;
+width: 580px;height: 154px;}
+div.page3_item1{
+	position: absolute;
+	top: 818px;
+	left: 322px;
+	right: 0px;
+width: 242px;height: 130px;}
+div.page5_item1{
+	position: absolute;
+	top: 90px;
+	left: 79px;
+	right: 0px;
+width: 745px;height: 115px;}
+div.page5_item2{
+	position: absolute;
+	top: 831px;
+	left: 285px;
+	right: 0px;
+width: 295px;height: 182px;}
+div.page6_item1{
+	position: absolute;
+	top: 85px;
+	left: 213px;
+	right: 0px;
+width: 550px;height: 539px;}
+div.page8_item1{
+	position: absolute;
+	top: 74px;
+	left: 158px;
+	right: 0px;
+width: 587px;height: 122px;}
+div.page8_item2{
+	position: absolute;
+	top: 215px;
+	left: 173px;
+	right: 0px;
+width: 611px;height: 163px;}
+div.page9_item1{
+	position: absolute;
+	top: 78px;
+	left: 156px;
+	right: 0px;
+width: 286px;height: 319px;}
+div.page9_item2{
+	position: absolute;
+	top: 825px;
+	left: 420px;
+	right: 0px;
+width: 380px;height: 104px;}
+div.page10_item1{
+	position: absolute;
+	top: 88px;
+	left: 110px;
+	right: 0px;
+width: 247px;height: 99px;}
+div.page10_item2{
+	position: absolute;
+	top: 313px;
+	left: 488px;
+	right: 0px;
+width: 147px;height: 54px;}
+div.page10_item3{
+	position: absolute;
+	top: 559px;
+	left: 564px;
+	right: 0px;
+width: 237px;height: 104px;}
+div.page11_item1{
+	position: absolute;
+	top: 85px;
+	left: 264px;
+	right: 0px;
+width: 551px;height: 62px;}
+div.page11_item2{
+	position: absolute;
+	top: 761px;
+	left: 126px;
+	right: 0px;
+width: 225px;height: 179px;}
+div.page12_item1{
+	position: absolute;
+	top: 87px;
+	left: 184px;
+	right: 0px;
+width: 550px;height: 57px;}
+div.page12_item2{
+	position: absolute;
+	top: 428px;
+	left: 470px;
+	right: 0px;
+width: 308px;height: 174px;}
+div.page13_item1{
+	position: absolute;
+	top: 77px;
+	left: 202px;
+	right: 0px;
+width: 570px;height: 101px;}
+div.page13_item2{
+	position: absolute;
+	top: 832px;
+	left: 300px;
+	right: 0px;
+width: 301px;height: 111px;}
+div.page13_item3{
+	position: absolute;
+	top: 968px;
+	left: 152px;
+	right: 0px;
+width: 625px;height: 52px;}
+div.page14_item1{
+	position: absolute;
+	top: 155px;
+	left: 210px;
+	right: 0px;
+width: 507px;height: 200px;}
+div.page15_item1{
+	position: absolute;
+	top: 82px;
+	left: 327px;
+	right: 0px;
+	-webkit-transform: rotate(-35deg);
+	-moz-transform: rotate(-35deg);
+width: 135px;height: 123px;}
+div.page15_item2{
+	position: absolute;
+	top: 141px;
+	left: 466px;
+	right: 0px;
+	-webkit-transform: rotate(-25deg);
+	-moz-transform: rotate(-25deg);
+width: 116px;height: 118px;}
+div.page15_item3{
+	position: absolute;
+	top: 240px;
+	left: 430px;
+	right: 0px;
+	-webkit-transform: rotate(-17deg);
+	-moz-transform: rotate(-17deg);
+width: 377px;height: 122px;}
+div.page16_item1{
+	position: absolute;
+	top: 88px;
+	left: 70px;
+	right: 0px;
+width: 432px;height: 283px;}
+div.page16_item2{
+	position: absolute;
+	top: 382px;
+	left: 117px;
+	right: 0px;
+width: 317px;height: 51px;}
+div.page17_item1{
+	position: absolute;
+	top: 853px;
+	left: 134px;
+	right: 0px;
+width: 653px;height: 168px;}
+div.page18_item1{
+	position: absolute;
+	top: 111px;
+	left: 194px;
+	right: 0px;
+width: 526px;height: 55px;}
+div.page19_item1{
+	position: absolute;
+	top: 122px;
+	left: 140px;
+	right: 0px;
+width: 646px;height: 346px;}
+div.page20_item1{
+	position: absolute;
+	top: 90px;
+	left: 86px;
+	right: 0px;
+width: 462px;height: 93px;}
+div.page20_item2{
+	position: absolute;
+	top: 214px;
+	left: 42px;
+	right: 0px;
+width: 548px;height: 133px;}
+div.page20_item3{
+	position: absolute;
+	top: 610px;
+	left: 173px;
+	right: 0px;
+width: 580px;height: 101px;}
+div.page21_item1{
+	position: absolute;
+	top: 915px;
+	left: 224px;
+	right: 0px;
+width: 462px;height: 103px;}
+div.page23_item1{
+	position: absolute;
+	top: 138px;
+	left: 120px;
+	right: 0px;
+width: 665px;height: 158px;}
+div.page24_item1{
+	position: absolute;
+	top: 85px;
+	left: 95px;
+	right: 0px;
+width: 709px;height: 243px;}
+div.page24_item2{
+	position: absolute;
+	top: 190px;
+	left: 95px;
+	right: 0px;
+width: 720px;height: 243px;}
+div.page26_item1{
+	position: absolute;
+	top: 95px;
+	left: 60px;
+	right: 0px;
+width: 426px;height: 183px;}
+div.page27_item1{
+	position: absolute;
+	top: 718px;
+	left: 297px;
+	right: 0px;
+width: 473px;height: 185px;}
+div.page28_item1{
+	position: absolute;
+	top: 903px;
+	left: 110px;
+	right: 0px;
+width: 694px;height: 127px;}
+div.page29_item1{
+	position: absolute;
+	top: 90px;
+	left: 108px;
+	right: 0px;
+width: 692px;height: 215px;}
+div.page31_item1{
+	position: absolute;
+	top: 89px;
+	left: 305px;
+	right: 0px;
+width: 533px;height: 255px;}
+div.page33_item1{
+	position: absolute;
+	top: 143px;
+	left: 192px;
+	right: 0px;
+width: 537px;height: 159px;}
+div.page34_item1{
+	position: absolute;
+	top: 76px;
+	left: 74px;
+	right: 0px;
+width: 659px;height: 199px;}
+div.page34_item2{
+	position: absolute;
+	top: 179px;
+	left: 0px;
+	right: 0px;
+width: 430px;height: 102px;}
+div.page35_item1{
+	position: absolute;
+	top: 725px;
+	left: 103px;
+	right: 0px;
+width: 700px;height: 133px;}
+div.page35_item2{
+	position: absolute;
+	top: 867px;
+	left: 112px;
+	right: 0px;
+width: 681px;height: 125px;}
+div.page36_item1{
+	position: absolute;
+	top: 1014px;
+	left: 370px;
+	right: 0px;
+width: 135px;height: 18px;}
+@font-face{
+	font-family:"CanvasText-Sans";
+	src: url(../fonts/CanvasText-Sans.otf);
+}
+@font-face{
+	font-family:"Tiki-Island";
+	src: url(../fonts/Tiki-Island.otf);
+}
+.grey
+{
+	color: #7F685A;
+}
+.grey1
+{
+	color: #5E4334;
+}
+.white2
+{
+	color: #D6E5EC;
+}
+.white
+{
+	color: #FFFFFF;
+}
+.white1
+{
+	color: #F0E2D3;
+}
+.grey2
+{
+	color: #A79387;
+}
+.blue
+{
+	color: #3F6AA0;
+}
+.blue1
+{
+	color: #293B83;
+}
+span.tiki1
+{
+	font-size: 34px;
+	line-height: 10px;
+	vertical-align: -5px;
+	font-family:"Tiki-Island";
+}
+span.tiki11
+{
+	font-size: 55px;
+	font-family:"Tiki-Island";
+}
+span.tiki11_A
+{
+	font-size: 95px;
+	line-height: 95px;
+	font-family:"Tiki-Island";
+}
+span.tiki11_B
+{
+	font-size: 67px;
+	line-height: 40px;
+	font-family:"Tiki-Island";
+}
+span.tiki0
+{
+	font-size: 27px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big5
+{
+	font-size: 91px;
+	line-height: 110px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big
+{
+	font-size: 91px;
+	line-height: 60px;
+	vertical-align:-4px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big13
+{
+	font-size: 56px;
+	line-height: 60px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big12
+{
+	font-size: 96px;
+	line-height: 70px;
+	vertical-align: -50px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big0
+{
+	font-size: 123px;
+	line-height: 125px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big00
+{
+	font-size: 123px;
+	line-height: 105px;
+	vertical-align:-72px;
+	font-family:"Tiki-Island";
+}
+span.convas
+{
+	font-size: 21px;
+	font-family:"CanvasText-Sans";
+}
+span.convas_big
+{
+	font-size: 47px;
+}
+span.left5
+{
+	margin-left: 1.6em;
+}
+span.left5a
+{
+	margin-left: 0.3em;
+}
+span.convas_big
+{
+	font-size: 47px;
+}
+span.left6
+{
+	margin-left: 0.3em;
+}
+span.left6a
+{
+	margin-left: 2em;
+}
+span.left6b
+{
+	margin-left: 0.9em;
+}
+span.left6c
+{
+	margin-left: 0.9em;
+}
+span.left6d
+{
+	margin-left: 2.3em;
+}
+span.left6e
+{
+	margin-left: 3.2em;
+}
+span.tiki_big6
+{
+	font-size: 62px;
+	line-height: 45px;
+	vertical-align: -20px;
+	font-family:"Tiki-Island";
+}
+span.size{
+	font-size: 43px;
+	line-height: 46px;
+	font-family:"CanvasText-Sans";
+}
+span.left9
+{
+	margin-left: 3.1em;
+}
+span.left9a
+{
+	margin-left: 0.7em;
+}
+span.left9b
+{
+	margin-left: 1.1em;
+}
+span.left9c
+{
+	margin-left: 1.8em;
+}
+span.left9d
+{
+	margin-left: -1.7em;
+}
+span.size1{
+	font-size: 35px;
+	line-height: 46px;
+	font-family:"CanvasText-Sans";
+}
+span.left9e
+{
+	margin-left: 0.5em;
+}
+span.tiki9
+{
+	font-size: 54px;
+	font-family:"Tiki-Island";
+}
+span.left10
+{
+	margin-left: 4.5em;
+}
+span.left10a
+{
+	margin-left: 1.0em;
+}
+span.left12
+{
+	margin-left: 0.7em;
+}
+span.left12a
+{
+	margin-left: 1.2em;
+}
+span.left13
+{
+	margin-left: 4.6em;
+}
+span.left13a
+{
+	margin-left: 3.3em;
+}
+span.CanvasText
+{
+	font-size: 61px;
+}
+span.left14
+{
+	margin-left: 0.9em;
+}
+span.left14a
+{
+	margin-left: 2.8em;
+}
+span.tiki_big14
+{
+	font-size: 82px;
+	line-height: 105px;
+	font-family:"Tiki-Island";
+}
+span.left16
+{
+	margin-left: 1.2em;
+}
+span.left16a
+{
+	margin-left: 1.3em;
+}
+span.left16b
+{
+	margin-left: 1.9em;
+}
+span.left16c
+{
+	margin-left: 1.2em;
+}
+span.tiki_big16
+{
+	font-size: 62px;
+	line-height: 70px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big17
+{
+	font-size: 90px;
+	line-height: 105px;
+	font-family:"Tiki-Island";
+}
+span.left17
+{
+	margin-left: 2.1em;
+}
+span.left17a
+{
+	margin-left: 1.2em;
+}
+span.left19
+{
+	margin-left: 3.3em;
+}
+span.left19a
+{
+	margin-left: 9.4em;
+}
+span.big
+{
+	font-size: 125px;
+	font-family:"Tiki-Island";
+}
+span.big0
+{
+	font-size: 168px;
+	line-height: 190px;
+	font-family:"Tiki-Island";
+}
+span.big00
+{
+	font-size: 125px;
+	line-height: 70px;
+	font-family:"Tiki-Island";
+}
+span.tiki20
+{
+	font-size: 57px;
+	vertical-align: -10px;
+	font-family:"Tiki-Island";
+}
+span.left20
+{
+	margin-left: 2em;
+}
+span.vertical
+{
+	vertical-align: 10px;
+}
+span.left20a
+{
+	margin-left: 1.8em;
+}
+span.tiki21
+{
+	font-size: 56px;
+	line-height: 80px;
+	font-family:"Tiki-Island";
+}
+span.left21
+{
+	margin-left: 3.9em;
+}
+span.convas_center
+{
+	font-size: 47px;
+	font-family:"CanvasText-Sans";
+}
+span.convas_center34
+{
+	font-size: 44px;
+	word-spacing: 8px;
+	font-family:"CanvasText-Sans";
+}
+span.convas_center0
+{
+	font-size: 47px;
+	line-height: 20px;
+	font-family:"CanvasText-Sans";
+}
+span.tiki23
+{
+	font-size: 61px;
+	line-height: 80px;
+	font-family:"Tiki-Island";
+}
+span.left24
+{
+	margin-left: 3.4em;
+}
+span.tiki24
+{
+	font-size: 56px;
+	line-height: 75px;
+	font-family:"Tiki-Island";
+}
+span.tiki26
+{
+	font-size: 62px;
+	line-height: 45px;
+	font-family:"Tiki-Island";
+}
+span.tiki_big28
+{
+	font-size: 90px;
+	line-height: 115px;
+	font-family:"Tiki-Island";
+}
+span.left28
+{
+	margin-left: 3.5em;
+}
+span.left29
+{
+	margin-left: 2em;
+}
+span.left29a
+{
+	margin-left: 1.8em;
+}
+span.left31
+{
+	margin-left: 2.2em;
+}
+span.tiki31
+{
+	font-size: 55px;
+	line-height: 45px;
+	vertical-align:-22px;
+	font-family:"Tiki-Island";
+}
+span.tiki31a
+{
+	font-size: 70px;
+	line-height: 55px;
+	font-family:"Tiki-Island";
+}
+span.tiki31b
+{
+	font-size: 70px;
+	line-height: 85px;
+	font-family:"Tiki-Island";
+}
+span.left31a
+{
+	margin-left: 7.3em;
+}
+span.align
+{
+	vertical-align: 25px;
+}
+span.tiki33
+{
+	font-size: 90px;
+	line-height: 70px;
+	vertical-align:-46px;
+	font-family:"Tiki-Island";
+}
+span.left33
+{
+	margin-left: 1.8em;
+}
+span.left33a
+{
+	margin-left: 4.4em;
+}
+span.tiki_big34
+{
+	font-size: 93px;
+	line-height: 78px;
+	font-family:"Tiki-Island";
+}
+span.big9
+{
+	font-size: 93px;
+	line-height: 80px;
+	font-family:"Tiki-Island";
+}
+span.vertical31
+{
+	vertical-align:15px;
+}
